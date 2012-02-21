@@ -1,0 +1,288 @@
+SampleID	SSdate	SEdate	MultipleSample	SampleType	UWM	Fvolume	Comments	ESdate	EEdate	ISdate	IEdate	Start time difference	End time difference	Comments
+HW001	04-06-2009 10:02	04-07-2009 10:31	no	Baseflow	yes	185.5	Baseflow							
+HW002	04-19-2009 18:42	04-22-2009 05:43	no	Rainfall	yes	120	Rainfall event	04-19-2009 15:45	04-23-2009 09:00	04-19-2009 15:45	04-23-2009 09:00	2:57	27:17	
+HW003	05-13-2009 20:17	05-15-2009 07:07	no	Rainfall	yes	341	Rainfall event	05-13-2009 19:45	05-15-2009 18:00	05-13-2009 19:45	05-15-2009 18:00	0:32	10:53	
+HW004	05-28-2009 09:40	05-28-2009 09:50	no	Blank	no	10	Blank							
+HW005	06-08-2009 02:51	06-08-2009 21:34	no	Rainfall	yes	120	"Filter 2. Rainfall Event of approx 1.4"""	06-08-2009 01:15	06-09-2009 04:30	06-08-2009 01:15	06-09-2009 04:30	1:36	6:56	
+HW006	06-15-2009 20:51	06-16-2009 11:42	no	Baseflow	yes	181	Baseflow							
+HW007S	07-07-2009 10:46	NA	no	Sediment	no	NA	Bed Sediment Sample - upstream site; sand; little organics							
+HW008S	07-07-2009 11:05	NA	no	Sediment	no	NA	Bed Sediment Sample - near gage (150' upstream); med to fine sand; little organics							
+HW009	08-11-2009 12:12	08-12-2009 08:29	no	Baseflow	yes	206	Baseflow							
+HW010	09-02-2009 13:45	NA	no	Sediment	no	NA	Sediment							
+HW011	09-14-2009 09:59	09-15-2009 08:29	no	Baseflow	yes	216	Baseflow							
+HW012	09-22-2009 12:39	09-23-2009 02:18	no	Rainfall	no	115	Rainfall event	09-22-2009 12:39	09-23-2009 04:00	09-22-2009 12:39	09-23-2009 04:00	0:00	1:42	
+HW013	09-27-2009 19:41	09-28-2009 06:14	no	Rainfall	yes	70.2	Rainfall event	09-27-2009 19:30	09-28-2009 21:00	09-27-2009 19:30	09-28-2009 21:00	0:11	14:46	
+HW014	10-01-2009 20:29	10-02-2009 09:23	no	Rainfall	no	181	Rainfall event	10-01-2009 19:45	10-02-2009 14:30	10-01-2009 19:45	10-02-2009 14:30	0:44	5:07	
+HW015	10-22-2009 09:11	10-24-2009 01:38	no	Rainfall	yes	140	Rainfall event	10-22-2009 06:15	10-24-2009 14:00	10-22-2009 06:15	10-24-2009 14:00	2:56	12:22	
+HW016	11-17-2009 17:43	11-18-2009 15:26	no	Baseflow	yes	288	Low flow with a little rain at the end of sampling							
+HW017	12-24-2009 22:00	12-27-2009 04:49	no	Mix	no	72.1	Rain on top of snow. Merry Xmas	12-24-2009 15:45	12-27-2009 10:00	12-24-2009 15:45	12-27-2009 10:00	6:15	5:11	
+HW017S	12-17-2009 15:30	NA	no	Sediment	no	NA	bed sediment							
+HW018	01-20-2010 12:23	01-21-2010 11:15	no	Baseflow	no	175	Baseflow							
+HW019	01-24-2010 05:08	01-25-2010 11:04	no	Mix	yes	30	"Snowmelt with a little rain (maybe < 0.25"")"	01-24-2010 04:15	01-26-2010 04:00	01-24-2010 04:15	01-26-2010 04:00	0:53	16:56	
+HW020	03-01-2010 09:04	03-02-2010 09:19	no	Baseflow	yes	336	Baseflow with a little snowmelt from mid-thirties temps and sun							
+HW021	03-09-2010 17:23	03-14-2010 10:46	no	Mix	yes	120	Snowmelt with rain	03-09-2010 13:10	03-15-2010 09:00	03-09-2010 13:10	03-15-2010 09:00	4:13	22:14	
+HW022S	03-23-2010 12:45	NA	no	Sediment	no	NA	bed sediment							
+HW023	04-05-2010 22:28	04-06-2010 16:35	no	Rainfall	yes	196	Rain event	04-05-2010 21:30	04-06-2010 20:00	04-05-2010 21:30	04-06-2010 20:00	0:58	3:25	
+HW024	05-11-2010 04:50	05-12-2010 06:58	yes	Rainfall	yes	276	Rainfall event	05-11-2010 04:15	05-14-2010 12:00	05-11-2010 04:15	05-12-2010 09:30	0:35	2:32	"spreadsheet indicates multiple saamples, but hydrograph shows 2 distinct storms?"
+HW025	05-13-2010 00:21	05-14-2010 06:26	yes	Rainfall	yes	145	Rainfall event			05-12-2010 22:40	05-14-2010 12:00	1:41	5:34	
+HW026	05-18-2010 07:44	05-19-2010 06:13	no	Baseflow	yes	211	Baseflow							
+HW027	06-02-2010 17:36	06-03-2010 10:19	no	Rainfall 	yes	171	Rainfall event--very flashy thunderstorm	06-02-2010 17:30	06-03-2010 10:30	06-02-2010 17:30	06-03-2010 10:30	0:06	0:11	
+HW028	06-15-2010 15:11	06-16-2010 05:45	no	Rainfall 	yes	186	rainfall event- short and intense- CSO	06-15-2010 15:00	06-16-2010 11:30	06-15-2010 15:00	06-16-2010 11:30	0:11	5:45	
+HW029S	06-30-2010 13:35	NA	no	Sediment	no	NA	bed sediment							
+HW030	07-13-2010 08:51	07-14-2010 08:15	no	Baseflow	yes	211	Baseflow							
+HW031	07-15-2010 07:14	07-15-2010 15:23	no	Rainfall	yes	165	CSO--caught the falling hydrograph--flow failure before end of hydrograph	07-14-2010 21:45	07-16-2010 03:00	07-14-2010 21:45	07-16-2010 03:00	9:29	11:37	
+HW032	07-22-2010 10:15	07-22-2010 17:39	yes	Rainfall	yes	76	"huge storm, CSOs, flooding; divided event into two samples; rising limb, peak, and some of falling limb"	07-22-2010 09:30	07-26-2010 01:00	07-22-2010 09:30	07-22-2010 17:55	0:45	0:16	"sampled first peak, missed larger second peak"
+HW033	07-23-2010 09:55	07-26-2010 04:27	yes	Rainfall	yes	366	"huge storm, CSOs, flooding; second of two samples; falling limb and second peak"			07-22-2010 18:00	07-26-2010 01:00	15:55	###############################################################################################################################################################################################################################################################	sampled falling end of second peak and third smaller peak
+HW034	08-04-2010 10:39	08-05-2010 08:50	no	Baseflow	yes	150	baseflow 							
+HW035	08-05-2010 11:25	08-05-2010 11:35	no	Blank	no	10	blank							
+HW035S	08-17-2010 12:20	NA	no	Sediment	no	NA	bed sed							
+HW036	08-20-2010 18:43	08-21-2010 08:55	no	Rainfall	yes	273	storm event	08-20-2010 16:45	08-21-2010 18:00	08-20-2010 16:45	08-21-2010 18:00	1:58	9:05	
+HW037	10-13-2010 12:41	10-14-2010 10:56	no	Baseflow	yes	226	Baseflow							
+HW038	11-10-2010 09:37	11-11-2010 07:47	no	Baseflow	yes	266	Baseflow							
+HW039	11-22-2010 07:32	11-23-2010 06:15	no	Rainfall	yes	174	Rainfall	11-22-2010 05:30	11-23-2010 10:30	11-22-2010 05:30	11-23-2010 10:30	2:02	4:15	
+HW040	11-29-2010 20:46	11-30-2010 18:10	no	Rainfall	yes	115	Rainfall	11-29-2010 19:00	11-30-2010 22:30	11-29-2010 19:00	11-30-2010 22:30	1:46	4:20	
+HW041	12-11-2010 16:26	12-12-2010 18:19	no	Mix	yes	328	"melt, rain, snow"	12-11-2010 13:00	12-13-2010 00:30	12-11-2010 13:00	12-13-2010 00:30	3:26	6:11	
+HW042	12-19-2010 12:44	12-20-2010 09:07	no	Baseflow	yes	236	Baseflow							
+HW043	01-05-2011 10:01	01-06-2011 08:20	no	Baseflow	yes	231	Baseflow							
+HW044	02-16-2011 14:05	02-19-2011 21:22	no	Mix	yes	276	Snowmelt with mist	02-16-2011 11:15	02-20-2011 03:00	02-16-2011 11:15	02-20-2011 03:00	2:50	5:38	
+HW045	02-28-2011 11:03	03-01-2011 14:43	no	Baseflow	NA	225	baseflow; sampler lost power and stopped running; restarted later at higher sampling rate							
+HW046	03-09-2011 04:57	03-10-2011 08:31	no	Snowmelt	NA	386	Snowmelt	03-09-2011 03:45	03-10-2011 10:15	03-09-2011 03:45	03-10-2011 10:15	1:12	1:44	
+HW047	03-14-2011 15:47	03-17-2011 08:02	yes	Snowmelt	NA	201	minor snowmelt	03-14-2011 13:00	03-19-2011 06:00	03-14-2011 13:00	03-17-2011 08:15	2:47	0:13	
+HW048	03-17-2011 13:20	03-19-2011 07:47	yes	Snowmelt	NA	155	snowmelt; moved to filter 2 but sampler lost power and reset.			03-17-2011 09:40	03-19-2011 06:00	3:40	###############################################################################################################################################################################################################################################################	
+HW049	03-22-2011 13:45	03-23-2011 19:58	no	Rainfall	NA	317	rain	03-22-2011 13:45	03-24-2011 04:00	03-22-2011 13:45	03-24-2011 04:00	0:00	8:02	
+HW050	03-29-2011 08:46	03-30-2011 10:37	no	Baseflow	NA	231	Baseflow							
+HW051	03-29-2011 08:54	03-30-2011 10:44	no	Replicate	NA	231	Baseflow duplicate							
+LD001	04-07-2009 17:57	04-08-2009 05:48	no	Baseflow	yes	255.9	Baseflow: First sample was a test sample through the old filter--subrtracted 5 L to total volume to account for this							
+LD002	04-20-2009 11:37	04-22-2009 07:47	no	Rainfall	yes	281	Rainfall event	04-19-2009 17:15	04-22-2009 23:00	04-19-2009 17:15	04-22-2009 23:00	18:22	15:13	
+LD003	05-28-2009 11:30	05-28-2009 11:40	no	Blank	no	10	Blank							
+LD004	06-08-2009 04:19	06-09-2009 13:57	no	Rainfall	yes	140	Rainfall event	06-08-2009 02:15	06-10-2009 01:30	06-08-2009 02:15	06-10-2009 01:30	2:04	11:33	
+LD005	06-15-2009 20:47	06-16-2009 13:36	no	Baseflow	yes	146	Baseflow: estimated due to leak in bypass valve. Subtracted 45 liters from total.							
+LD006S	07-07-2009 09:40	NA	no	Sediment	no	NA	Bed Sediment Sample; fine sand to silt; little organics							
+LD007	08-11-2009 08:48	08-12-2009 08:35	no	Baseflow	yes	241	Baseflow							
+LD008S	09-02-2009 09:30	NA	no	Sediment	no	NA	Sediment							
+LD009	09-14-2009 09:42	09-15-2009 08:35	no	Baseflow	yes	186	Baseflow							
+LD010	09-22-2009 13:54	09-23-2009 07:32	no	Rainfall	yes	331	Rainfall	09-22-2009 12:45	09-23-2009 18:30	09-22-2009 12:45	09-23-2009 18:30	1:09	10:58	
+LD011	09-27-2009 20:48	09-28-2009 10:54	no	Rainfall	no	176	Rainfall	09-27-2009 19:15	09-28-2009 17:00	09-27-2009 19:15	09-28-2009 17:00	1:33	6:06	
+LD012	10-01-2009 22:32	10-02-2009 10:10	no	Rainfall	no	301	Rainfall	10-01-2009 20:15	10-03-2009 00:30	10-01-2009 20:15	10-03-2009 00:30	2:17	14:20	
+LD013	10-22-2009 08:51	10-24-2009 03:05	yes	Rainfall	no	664		10-22-2009 07:45	10-24-2009 20:00	10-22-2009 07:45	10-24-2009 03:05	1:06	0:00	
+LD014	10-24-2009 03:05	10-24-2009 09:26	yes	Rainfall	yes	189	Rainfall event			10-24-2009 03:05	10-24-2009 20:00	0:00	10:34	
+LD015	11-17-2009 17:36	11-18-2009 15:15	no	Baseflow	yes	236	Low flow with a little rain at the end of sampling							
+LD016	12-25-2009 07:33	12-27-2009 16:50	no	Mix	no	276	Rain on top of snow. Merry Xmas	12-24-2009 17:30	12-27-2009 20:00	12-24-2009 17:30	12-27-2009 20:00	14:03	3:10	
+LD016S	12-17-2009 09:15	NA	no	Sediment	no	NA	bed sediment							
+LD017	01-20-2010 10:36	01-21-2010 09:34	no	Baseflow	no	206	Baseflow--pH troubles. We may have had low pH values--the metering speed was very high and the sensor was bad							
+LD018	01-24-2010 04:39	01-26-2010 09:23	no	Mix	yes	120	"Snowmelt with a little rain (maybe < 0.25"")"	01-23-2010 15:45	01-26-2010 13:30	01-23-2010 15:45	01-26-2010 13:30	12:54	4:07	
+LD019	03-01-2010 08:55	03-02-2010 09:09	no	Baseflow	yes	251	Baseflow with a little snowmelt from mid-thirties temps and sun							
+LD020	03-09-2010 17:06	03-15-2010 09:00	no	Mix	yes	913	Rain + snow melt	03-09-2010 13:35	03-17-2010 08:00	03-09-2010 13:35	03-17-2010 08:00	3:31	47:00	
+LD021S	03-23-2010 09:45	NA	no	Sediment	no	NA	bed sediment sample 							
+LD022	04-06-2010 01:22	04-07-2010 12:22	no	Rainfall	yes	632	Rainfall event	04-05-2010 22:15	04-07-2010 15:00	04-05-2010 22:15	04-07-2010 15:00	3:07	2:38	
+LD023	04-25-2010 00:19	04-26-2010 07:59	no	Rainfall	yes	823	Rainfall event	04-25-2010 00:15	04-26-2010 23:00	04-25-2010 00:15	04-26-2010 23:00	0:04	15:01	
+LD024	05-11-2010 05:41	05-11-2010 20:18	no	Rainfall	yes	321	Rainfall event	05-11-2010 04:45	05-12-2010 18:00	05-11-2010 04:45	05-12-2010 18:00	0:56	21:42	
+LD025	05-18-2010 07:22	05-19-2010 07:17	no	Baseflow	yes	221	Baseflow							
+LD026S	06-30-2010 09:00	NA	no	Sediment	no	NA	bed sediment sample 							
+LD027	07-13-2010 08:12	07-14-2010 07:51	no	Baseflow	yes	211	Baseflow							
+LD028	07-15-2010 07:13	07-16-2010 07:19	no	Rainfall	yes	301	CSO--caught the falling hydrograph	07-14-2010 21:15	07-16-2010 18:00	07-14-2010 21:15	07-16-2010 18:00	9:58	10:41	
+LD029	07-22-2010 16:38	07-23-2010 04:33	yes	Rainfall	yes	316	"huge storm, CSOs, flooding; divided event into two samples; rising limb, peak, and some of falling limb"	07-22-2010 12:35	07-26-2010 19:30	07-22-2010 12:35	07-23-2010 08:12	4:03	3:39	
+LD030	07-23-2010 11:52	07-25-2010 21:23	yes	Rainfall	yes	537	"huge storm, CSOs, flooding; second of two samples; falling limb and second peak"			07-23-2010 08:12	07-26-2010 19:30	3:39	22:07	
+LD031	08-04-2010 14:10	08-04-2010 14:15	no	Blank	no	10	blank- virus only							
+LD032	08-17-2010 09:50	NA	no	Sediment	no	NA	bed sed							
+LD033	09-01-2010 02:36	09-01-2010 13:58	no	Rainfall	yes	226	Rainfall	09-01-2010 02:15	09-01-2010 17:00	09-01-2010 02:15	09-01-2010 17:00	0:21	3:02	
+LD034	09-13-2010 08:48	09-14-2010 07:59	no	Baseflow	yes	221	Baseflow							
+LD035	10-23-2010 23:37	10-24-2010 18:40	no	Rainfall 	yes	472	rainfall after 5 week dry period	10-23-2010 23:15	10-25-2010 02:15	10-23-2010 23:15	10-25-2010 02:15	0:22	7:35	
+LD036	10-26-2010 07:19	10-26-2010 21:39	no	Rainfall	yes	376	Rainfall	10-26-2010 06:30	10-26-2010 21:45	10-26-2010 06:30	10-26-2010 21:45	0:49	0:06	
+LD037	11-10-2010 08:58	11-11-2010 07:37	no	Baseflow	yes	261	Baseflow							
+LD038	01-05-2011 09:38	01-06-2011 08:32	no	Baseflow	yes	276	Baseflow							
+LD039	02-16-2011 16:19	02-19-2011 21:08	no	Mix	yes	1124	Snowmelt with mist	02-16-2011 12:00	02-20-2011 11:30	02-16-2011 12:00	02-20-2011 11:30	4:19	14:22	
+LD040	02-28-2011 09:33	03-01-2011 09:31	no	Baseflow	NA	266	Baseflow							
+LD041	03-09-2011 12:38	03-10-2011 09:18	no	Snowmelt	NA	216	Snowmelt	03-09-2011 10:45	03-10-2011 10:00	03-09-2011 10:45	03-10-2011 10:00	1:53	0:42	
+LD042	03-14-2011 11:40	03-16-2011 09:35	yes	Snowmelt	NA	361	minor snowmelt 	03-14-2011 08:55	03-19-2011 09:00	03-14-2011 08:55	03-16-2011 12:00	2:45	2:25	
+LD043	03-17-2011 10:17	03-18-2011 20:29	yes	Snowmelt	NA	472	snowmelt; tried to switch to filter 2 but had flow failures			03-17-2011 08:30	03-19-2011 09:00	1:47	12:31	
+LD044	03-22-2011 16:30	03-23-2011 19:05	no	Rainfall	NA	251	rain	03-22-2011 10:55	03-24-2011 11:00	03-22-2011 10:55	03-24-2011 11:00	5:35	15:55	
+LD045	03-29-2011 08:25	03-30-2011 08:17	no	Baseflow	NA	361	Baseflow							
+LD046	03-29-2011 08:35	03-30-2011 08:30	no	Replicate	NA	356	Baseflow duplicate							
+MC001	04-06-2009 11:58	04-07-2009 11:40	no	Baseflow	yes	352.6	Baseflow							
+MC002	04-19-2009 18:57	04-22-2009 07:42	no	Rainfall	yes	222	Rainfall event	04-19-2009 18:00	04-22-2009 12:00	04-19-2009 18:00	04-22-2009 12:00	0:57	4:18	
+MC003	04-26-2009 18:12	04-29-2009 06:16	no	Rainfall	yes	252	CSO began 2:45 CDT 4/26/09	04-26-2009 14:00	04-29-2009 12:00	04-26-2009 14:00	04-29-2009 12:00	4:12	5:44	
+MC004	05-13-2009 20:39	05-14-2009 20:06	yes	Rainfall	no	277	Rainfall event	05-13-2009 14:00	05-15-2009 15:00	05-13-2009 14:00	05-14-2009 20:06	6:39	0:00	
+MC005	05-14-2009 20:06	05-15-2009 06:35	yes	Rainfall	yes	71	Rainfall event			05-14-2009 20:06	05-15-2009 15:00	0:00	8:25	
+MC006	06-08-2009 06:35	06-09-2009 15:22	no	Rainfall	yes	292	Rainfall event	06-08-2009 00:30	06-09-2009 15:30	06-08-2009 00:30	06-09-2009 15:30	6:05	0:08	
+MC007	06-15-2009 21:48	06-16-2009 13:51	no	Baseflow	yes	212	Baseflow							
+MC008S	07-07-2009 14:35	NA	no	Sediment	no	NA	Bed Sediment Sample;  fine sand & silt w/ some organics							
+MC009	08-11-2009 22:47	08-12-2009 02:48	no	Baseflow	yes	45.3	Baseflow							
+MC010S	09-02-2009 17:00	NA	no	Sediment	no	NA	Sediment							
+MC011	09-14-2009 10:58	09-15-2009 01:25	no	Baseflow	yes	141	Baseflow							
+MC012	09-22-2009 12:53	09-23-2009 07:51	no	Rainfall	yes	494	Rainfall event	09-22-2009 11:30	09-23-2009 09:30	09-22-2009 11:30	09-23-2009 09:30	1:23	1:39	
+MC013	09-27-2009 20:40	09-28-2009 09:44	no	Rainfall	no	136	Rainfall event	09-27-2009 19:30	09-28-2009 15:00	09-27-2009 19:30	09-28-2009 15:00	1:10	5:16	
+MC014	10-01-2009 20:26	10-02-2009 09:44	no	Rainfall	no	111	Rainfall event	10-01-2009 17:30	10-02-2009 20:00	10-01-2009 17:30	10-02-2009 20:00	2:56	10:16	
+MC015	10-22-2009 08:02	10-23-2009 12:00	yes	Rainfall	yes	166	Rainfall event	10-22-2009 08:00	10-24-2009 14:30	10-22-2009 08:00	10-23-2009 12:09	0:02	0:09	
+MC016	10-23-2009 12:18	10-24-2009 11:22	yes	Rainfall	yes	85.6	Rainfall event			10-23-2009 12:09	10-24-2009 14:30	0:09	3:08	
+MC017	11-17-2009 17:55	11-18-2009 15:26	no	Baseflow	yes	222	Low flow with a little rain at the end of sampling							
+MC018	12-24-2009 19:22	12-27-2009 19:15	no	Mix	yes	282	Rain on top of snow. Merry Xmas. Sampling ended about 12 hours early because accum vol had NA probably from a bad Q value from the ADCP	12-24-2009 14:00	12-28-2009 01:00	12-24-2009 14:00	12-28-2009 01:00	5:22	5:45	
+MC018S	12-17-2009 16:45	NA	no	Sediment	no	NA	bed sediment							
+MC019	01-20-2010 13:32	01-21-2010 13:31	no	Baseflow	no	242	Baseflow							
+MC020	01-24-2010 01:32	01-26-2010 13:46	no	Mix	yes	85.6	"Snowmelt with a little rain (maybe < 0.25"")  SENT IN WITH THE WRONG ENDING TIME AND VOLUME (8:12 AND 81L)"	01-23-2010 21:00	01-26-2010 20:00	01-23-2010 21:00	01-26-2010 20:00	4:32	6:14	
+MC021	03-01-2010 09:49	03-02-2010 09:16	no	Baseflow	yes	242	Baseflow with a little snowmelt from mid-thirties temps and sun							
+MC022	03-09-2010 17:21	03-15-2010 08:43	no	Mix	yes	705	Snowmelt with rain	03-09-2010 12:00	03-15-2010 16:00	03-09-2010 12:00	03-15-2010 16:00	5:21	7:17	
+MC023S	03-23-2010 14:45	NA	no	Sediment	no	NA	Bed Sediment 							
+MC024	04-05-2010 22:53	04-07-2010 13:37	no	Rainfall	yes	242	Rainfall event	04-05-2010 20:00	04-07-2010 13:37	04-05-2010 20:00	04-07-2010 13:37	2:53	0:00	
+MC025	04-25-2010 00:01	04-26-2010 12:37	no	Rainfall	yes	373	Rainfall event	04-24-2010 19:00	04-26-2010 13:00	04-24-2010 19:00	04-26-2010 13:00	5:01	0:23	
+MC026	05-07-2010 09:11	05-09-2010 07:19	no	Rainfall	yes	443	Rainfall event	05-07-2010 04:00	05-09-2010 09:30	05-07-2010 04:00	05-09-2010 09:30	5:11	2:11	
+MC027	05-11-2010 05:21	05-12-2010 08:45	yes	Rainfall	yes	478	Rainfall event	05-11-2010 04:00	05-14-2010 07:00	05-11-2010 04:00	05-12-2010 12:00	1:21	3:15	
+MC028	05-13-2010 01:06	05-14-2010 06:48	yes	Rainfall	yes	418	Rainfall event			05-12-2010 21:30	05-14-2010 07:00	3:36	0:12	
+MC029	05-18-2010 08:07	05-19-2010 13:05	no	Baseflow	yes	156	Baseflow							
+MC034	06-02-2010 17:43	06-03-2010 10:56	no	Rainfall 	yes	176	Rainfall event--very flashy thunderstorm	06-02-2010 14:00	06-03-2010 22:00	06-02-2010 14:00	06-03-2010 22:00	3:43	11:04	
+MC035S	06-30-2010 15:40	NA	no	Sediment	no	NA	Bed Sediment 							
+MC036	07-13-2010 08:53	07-14-2010 15:27	no	Baseflow	yes	136	Baseflow--troubles with accumulation forced a change to time composite at 7/14 9:30 with 10 minute samples							
+MC037	07-15-2010 07:49	07-16-2010 07:02	no	Rainfall 	yes	NA	"Sampled only for bacteria for GLWI--CSO, caught the end of the hydrograph"	07-15-2010 12:55	07-16-2010 13:00	07-15-2010 12:55	07-16-2010 13:00	###############################################################################################################################################################################################################################################################	5:58	missing Q data from 7/12 to 7/15/10 12:50
+MC038	07-22-2010 10:32	07-23-2010 13:33	yes	Rainfall	yes	594	"huge storm, CSOs, flooding; divided event into two samples; rising limb, peak, and some of falling limb"	07-22-2010 09:00	07-26-2010 06:00	07-22-2010 09:00	07-23-2010 13:54	1:32	0:21	
+MC039	07-23-2010 14:14	07-26-2010 05:47	yes	Rainfall	yes	267	"huge storm, CSOs, flooding; second of two samples; falling limb and second peak"			07-23-2010 13:54	07-26-2010 06:00	0:20	0:13	
+MC040	08-04-2010 11:27	08-05-2010 08:05	no	Baseflow	yes	212	Baseflow							
+MC041	08-05-2010 13:10	08-05-2010 13:20	no	Blank	no	10	blank							
+MC041S	08-17-2010 13:30	NA	no	Sediment	no	NA	bed sed							
+MC042	09-01-2010 03:23	09-01-2010 20:34	no	Rainfall	yes	146	Rainfall	09-01-2010 01:30	09-02-2010 04:30	09-01-2010 01:30	09-02-2010 04:30	1:53	7:56	
+MC043	09-13-2010 09:25	09-14-2010 11:07	no	Baseflow	yes	262	Baseflow							
+MC044	10-13-2010 11:15	10-14-2010 10:30	no	Baseflow	yes	237	Baseflow							
+MC045	10-23-2010 21:06	10-24-2010 18:45	no	Rainfall 	yes	499	Rainfall after 5 week dry period	10-23-2010 21:00	10-24-2010 22:00	10-23-2010 21:00	10-24-2010 22:00	0:06	3:15	
+MC046	10-26-2010 06:01	10-27-2010 00:14	no	Rainfall	yes	181	Rainfall	10-26-2010 04:00	10-27-2010 07:00	10-26-2010 04:00	10-27-2010 07:00	2:01	6:46	
+MC047	11-22-2010 07:51	11-23-2010 08:21	no	Rainfall	yes	121	Rainfall	11-22-2010 05:30	11-24-2010 03:00	11-22-2010 05:30	11-24-2010 03:00	2:21	18:39	
+MC048	12-11-2010 16:27	12-12-2010 20:18	no	Mix	yes	630	"melt, rain, snow"	12-11-2010 13:00	12-13-2010 04:00	12-11-2010 13:00	12-13-2010 04:00	3:27	7:42	
+MC049	12-19-2010 12:44	12-20-2010 11:11	no	Baseflow	yes	232	Baseflow							
+MC050	01-05-2011 10:44	01-06-2011 08:44	no	Baseflow	yes	222	Baseflow							
+MC051	02-16-2011 17:17	02-20-2011 09:21	yes	Mix	yes	509	Snowmelt with mist	02-16-2011 14:00	02-21-2011 07:30	02-16-2011 14:00	02-20-2011 10:01	3:17	0:40	
+MC052	02-20-2011 10:49	02-21-2011 04:55	yes	Snowmelt	yes	121	End of snowmelt event			02-20-2011 10:01	02-21-2011 07:30	0:48	2:35	
+MC053	02-28-2011 11:13	03-01-2011 09:40	no	Baseflow	NA	232	Baseflow							
+MC054	03-09-2011 06:32	03-10-2011 16:32	no	Mix	NA	90.7	Small Event	03-09-2011 02:00	03-10-2011 20:00	03-09-2011 02:00	03-10-2011 20:00	4:32	3:28	
+MC055	03-14-2011 12:04	03-17-2011 08:04	yes	Snowmelt	NA	690	small snowmelt;  time composite	03-14-2011 12:00	03-20-2011 07:00	03-14-2011 12:00	03-17-2011 11:06	0:04	3:02	
+MC056	03-17-2011 14:07	03-20-2011 06:39	yes	Snowmelt	NA	670	snowmelt			03-17-2011 11:06	03-20-2011 07:00	3:01	0:21	
+MC057	03-20-2011 07:18	03-21-2011 08:28	yes	Rainfall	NA	549	rain	03-20-2011 07:00	03-24-2011 16:00	03-20-2011 07:00	03-21-2011 23:00	0:18	14:32	
+MC058	03-22-2011 14:10	03-24-2011 07:47	yes	Rainfall	NA	594	rain			03-22-2011 11:00	03-24-2011 16:00	3:10	8:13	
+MC059	03-29-2011 09:07	03-30-2011 13:06	no	Baseflow	NA	287	Baseflow							
+MC060	03-29-2011 09:14	03-30-2011 13:12	no	Replicate	NA	287	Baseflow duplicate							
+MF001	04-06-2009 09:34	04-07-2009 11:00	no	Baseflow	yes	261.9	Baseflow							
+MF002	04-20-2009 10:28	04-21-2009 18:19	no	Rainfall 	yes	408	Rainfall event	04-19-2009 14:45	04-23-2009 15:00	04-19-2009 14:45	04-23-2009 15:00	19:43	44:41	
+MF003	06-15-2009 20:38	06-16-2009 13:42	no	Baseflow	yes	222	Baseflow							
+MF004S	07-07-2009 09:00	NA	no	Sediment	no	NA	Bed Sediment Sample; sand with some silt; little organics							
+MF005	07-22-2009 08:44	07-23-2009 06:12	no	Rainfall 	yes	130.9	rainfall event	07-22-2009 07:35	07-23-2009 17:00	07-22-2009 07:35	07-23-2009 17:00	1:09	10:48	
+MF006	08-11-2009 09:08	08-12-2009 08:35	no	Baseflow	yes	196	Baseflow							
+MF007S	09-02-2009 08:15	NA	no	Sediment	no	NA	Sediment							
+MF008	09-15-2009 08:28	09-15-2009 13:54	no	Baseflow	yes	85.6	Baseflow							
+MF009	09-22-2009 12:21	09-23-2009 07:48	no	Rainfall	yes	312	Rainfall event	09-22-2009 11:45	09-23-2009 16:00	09-22-2009 11:45	09-23-2009 16:00	0:36	8:12	
+MF010	09-27-2009 18:44	09-28-2009 07:24	no	Rainfall	yes	257	Rainfall event	09-27-2009 19:05	09-28-2009 10:00	09-27-2009 19:05	09-28-2009 10:00	###############################################################################################################################################################################################################################################################	2:36	
+MF011	10-01-2009 19:24	10-02-2009 09:48	no	Rainfall	no	146	Rainfall event	10-01-2009 19:35	10-02-2009 18:00	10-01-2009 19:35	10-02-2009 18:00	###############################################################################################################################################################################################################################################################	8:12	
+MF012	10-22-2009 06:04	10-24-2009 11:23	no	Rainfall	yes	334	Rainfall event	10-22-2009 06:00	10-25-2009 00:00	10-22-2009 06:00	10-25-2009 00:00	0:04	12:37	
+MF013	11-17-2009 17:30	11-18-2009 14:38	no	Baseflow	yes	242	Low flow with a little rain at the end of sampling							
+MF014	12-24-2009 23:28	12-27-2009 17:29	no	Mix	no	297	Rain on top of snow. Merry Xmas	12-24-2009 16:00	12-28-2009 21:00	12-24-2009 16:00	12-28-2009 21:00	7:28	27:31	
+MF014S	12-17-2009 11:45	NA	no	Sediment	no	NA	bed sediment							
+MF015	01-20-2010 09:47	01-21-2010 04:24	no	Baseflow	no	292	Baseflow							
+MF016	01-24-2010 07:13	01-26-2010 09:06	no	Mix	yes	201	"Snowmelt with a little rain (maybe < 0.25"")"	01-24-2010 04:10	01-26-2010 20:00	01-24-2010 04:10	01-26-2010 20:00	3:03	10:54	
+MF017	03-01-2010 08:59	03-02-2010 01:51	no	Baseflow	yes	161	"Baseflow with a little snowmelt from mid-thirties temps and sun, acid was empty, flow failures"							
+MF018	03-09-2010 17:03	03-14-2010 14:31	no	Mix	yes	620	snowmelt and rain over 4-5 days	03-09-2010 13:55	03-18-2010 03:00	03-09-2010 13:55	03-18-2010 03:00	3:08	84:29	
+MF019S	03-23-2010 08:45	NA	no	Sediment	no	NA	bed sediment sample  							
+MF020	04-06-2010 22:43	04-08-2010 13:47	no	Rainfall	yes	332	Rainfall event	04-06-2010 22:43	04-11-2010 06:00	04-06-2010 22:43	04-11-2010 06:00	0:00	64:13	
+MF021	04-24-2010 23:07	04-26-2010 07:39	no	Rainfall	yes	486	Rainfall event	04-24-2010 23:07	04-29-2010 18:00	04-24-2010 23:07	04-29-2010 18:00	0:00	82:21	
+MF022	05-18-2010 11:04	05-19-2010 11:53	no	Baseflow	yes	217	Baseflow							
+MF023	06-15-2010 15:14	06-16-2010 10:21	no	Rainfall 	yes	297	rainfall event- short intense storm; CSO	06-15-2010 15:14	06-16-2010 12:00	06-15-2010 15:14	06-16-2010 12:00	0:00	1:39	goofy ending
+MF024S	06-30-2010 09:45	NA	no	Sediment	no	NA	bed sediment							
+MF025	07-13-2010 08:29	07-14-2010 05:57	no	Baseflow	yes	191	"Baseflow, pH failure ended it about 3 hrs early"							
+MF026	07-15-2010 07:07	07-16-2010 07:19	no	Rainfall	yes	443	"CSO--caught the falling hydrograph, Intermittent pH failures"	07-14-2010 21:30	07-20-2010 03:00	07-14-2010 21:30	07-20-2010 03:00	9:37	91:41	
+MF027	07-22-2010 16:27	07-23-2010 12:05	yes	Rainfall	yes	433	"huge storm, CSOs, flooding; divided event into two samples; rising limb, peak, and some of falling limb"	07-22-2010 10:00	07-29-2010 03:00	07-22-2010 10:00	07-23-2010 12:35	6:27	0:30	
+MF028	07-23-2010 13:05	07-26-2010 00:12	yes	Rainfall	yes	680	"huge storm, CSOs, flooding; second of two samples; falling limb and second peak"			07-23-2010 12:35	07-29-2010 03:00	0:30	74:48	
+MF029	08-04-2010 15:20	08-04-2010 15:30	no	Blank	no	10	blank (virus only)							
+MF030	08-17-2010 08:50	NA	no	Sediment	no	NA	bed sed							
+MF031	09-01-2010 02:01	09-01-2010 14:08	no	Rainfall	yes	257	Rainfall	09-01-2010 01:45	09-01-2010 14:15	09-01-2010 01:45	09-01-2010 14:15	0:16	0:07	
+MF032	09-13-2010 08:49	09-14-2010 07:52	no	Baseflow	yes	181.3	Baseflow							
+MF033	10-23-2010 16:59	10-24-2010 17:11	no	Rainfall 	yes	353	Rainfall after 5 week dry period;  pH failures ended it (ran out of acid?)	10-23-2010 16:59	10-25-2010 12:05	10-23-2010 16:59	10-25-2010 12:05	0:00	18:54	
+MF034	10-26-2010 08:37	10-26-2010 22:50	no	Rainfall 	yes	186	Rainfall; pH failures ended it.	10-26-2010 05:00	10-27-2010 02:30	10-26-2010 05:00	10-27-2010 02:30	3:37	3:40	
+MF035	11-10-2010 09:14	11-11-2010 08:01	no	Baseflow	yes	237	Baseflow							
+MF036	11-22-2010 07:38	11-23-2010 07:49	no	Rainfall	yes	191	Rain event	11-22-2010 07:38	11-23-2010 11:45	11-22-2010 07:38	11-23-2010 11:45	0:00	3:56	
+MF037	01-05-2011 10:48	01-06-2011 08:23	no	Baseflow	yes	317	Baseflow							
+MF038	02-16-2011 14:24	02-20-2011 08:10	no	Mix	yes	609	Snowmelt with mist	02-16-2011 10:35	02-20-2011 16:00	02-16-2011 10:35	02-20-2011 16:00	3:49	7:50	
+MF039	02-28-2011 09:31	03-01-2011 12:46	no	Baseflow	NA	196	Baseflow							
+MF040	03-09-2011 05:29	03-10-2011 09:27	no	Snowmelt	NA	232	Snowmelt	03-09-2011 03:00	03-10-2011 12:30	03-09-2011 03:00	03-10-2011 12:30	2:29	3:03	
+MF041	03-14-2011 11:28	03-17-2011 07:38	yes	Snowmelt	NA	302	minor snowmelt	03-14-2011 11:28	03-20-2011 07:00	03-14-2011 11:28	03-17-2011 07:45	0:00	0:07	
+MF042	03-17-2011 11:28	03-20-2011 06:45	yes	Snowmelt	NA	670	snowmelt			03-17-2011 09:20	03-20-2011 07:00	2:08	0:15	
+MF043	03-20-2011 07:19	03-21-2011 07:45	yes	Rainfall	NA	398	rain;  filter 2- virus only- no organic/Gd	03-20-2011 07:19	03-25-2011 12:00	03-20-2011 07:19	03-21-2011 07:45	0:00	0:00	
+MF044	03-22-2011 19:07	03-24-2011 07:45	yes	Rainfall	NA	166	rain			03-22-2011 19:05	03-25-2011 12:00	0:02	28:15	
+MF045	03-29-2011 07:35	03-30-2011 09:02	no	Baseflow	NA	257	Baseflow							
+MF046	03-29-2011 07:43	03-30-2011 09:09	no	Replicate	NA	257	Baseflow duplicate							
+MW001	04-06-2009 10:23	04-07-2009 01:22	no	Baseflow	yes	95.3	Baseflow							
+MW002	04-19-2009 18:45	04-22-2009 07:27	no	Rainfall	yes	291	Rainfall event	04-19-2009 15:15	04-22-2009 15:00	04-19-2009 15:15	04-22-2009 15:00	3:30	7:33	
+MW003	04-26-2009 18:16	04-29-2009 06:16	no	Rainfall	yes	361	CSO began 2:45 CDT 4/26/09	04-25-2009 10:15	04-29-2009 06:16	04-25-2009 10:15	04-29-2009 06:16	32:01	0:00	
+MW004	05-13-2009 20:13	05-15-2009 07:12	no	Rainfall 	yes	306	"Rainfall, pH at end of storm was from 7.5-7.7"	05-13-2009 20:00	05-15-2009 15:00	05-13-2009 20:00	05-15-2009 15:00	0:13	7:48	
+MW005	06-08-2009 02:58	06-09-2009 14:37	no	Rainfall	yes	291	Rainfall event	06-08-2009 02:30	06-10-2009 00:30	06-08-2009 02:30	06-10-2009 00:30	0:28	9:53	
+MW006	06-15-2009 20:59	06-16-2009 13:38	no	Baseflow	yes	217	Baseflow							
+MW007S	07-07-2009 12:40	NA	no	Sediment	no	NA	"Bed Sediment Sample - upstream site; med to fine sand, some silt; minor organics"							
+MW008S	07-07-2009 13:00	NA	no	Sediment	no	NA	Bed Sediment Sample - at gage; sand; little/no organics							
+MW009	08-11-2009 11:25	08-12-2009 08:50	no	Baseflow	yes	201	Baseflow							
+MW010S	09-02-2009 10:50	NA	no	Sediment	no	NA	Sediment							
+MW011	09-14-2009 10:03	09-15-2009 08:29	no	Baseflow	yes	215	Baseflow							
+MW012	09-22-2009 12:35	09-23-2009 07:44	no	Rainfall	yes	456	Rainfall event	09-22-2009 12:30	09-23-2009 13:45	09-22-2009 12:30	09-23-2009 13:45	0:05	6:01	
+MW013	09-27-2009 19:38	09-28-2009 10:01	no	Rainfall 	no	158	"Rainfall event, No Organic Sample"	09-27-2009 19:25	09-28-2009 18:15	09-27-2009 19:25	09-28-2009 18:15	0:13	8:14	
+MW014	10-01-2009 20:31	10-02-2009 09:24	no	Rainfall	no	165	Rainfall event	10-01-2009 19:55	10-02-2009 17:00	10-01-2009 19:55	10-02-2009 17:00	0:36	7:36	
+MW015	10-22-2009 06:11	10-23-2009 19:13	no	Rainfall	yes	224		10-22-2009 05:55	10-24-2009 13:30	10-22-2009 05:55	10-24-2009 13:30	0:16	18:17	
+MW016	11-18-2009 07:10	11-18-2009 15:26	no	Baseflow	yes	190	"Low flow with a little rain at the end of sampling: Actually started at 18:10 on the 17th, but had some pH problems, so only 6 samples were collected in the first few hours."							
+MW017	12-24-2009 20:14	12-28-2009 07:57	no	Mix	no	435	Rain on top of snow. Merry Xmas	12-24-2009 15:30	12-28-2009 10:30	12-24-2009 15:30	12-28-2009 10:30	4:44	2:33	
+MW017S	12-17-2009 13:45	NA	no	Sediment	no	NA	bed sediment							
+MW018	01-20-2010 11:50	01-21-2010 11:18	no	Baseflow	no	196	Baseflow							
+MW019	01-22-2010 23:15	01-25-2010 12:28	no	Mix	yes	120	"Snowmelt with a little rain (maybe < 0.25"")"	01-22-2010 23:15	01-26-2010 04:15	01-22-2010 23:15	01-26-2010 04:15	0:00	15:47	hydro rise started on 1/23/10 12:00
+MW020	03-01-2010 09:16	03-02-2010 09:22	no	Baseflow	yes	231	Baseflow with a little snowmelt from mid-thirties temps and sun							
+MW021	03-09-2010 17:19	03-13-2010 20:30	no	Mix	yes	719	Snowmelt with rain	03-09-2010 12:00	03-15-2010 16:00	03-09-2010 12:00	03-15-2010 16:00	5:19	43:30	
+MW022S	03-23-2010 11:00	NA	no	Sediment	no	NA	bed sediment							
+MW023	04-05-2010 22:29	04-07-2010 13:37	no	Rainfall	yes	236	Rainfall event	04-05-2010 21:15	04-07-2010 14:30	04-05-2010 21:15	04-07-2010 14:30	1:14	0:53	
+MW024	04-24-2010 23:25	04-26-2010 13:06	no	Rainfall	yes	491	Rainfall event	04-24-2010 23:20	04-26-2010 22:00	04-24-2010 23:20	04-26-2010 22:00	0:05	8:54	
+MW025	05-11-2010 04:39	05-12-2010 07:52	yes	Rainfall	yes	441	Rainfall event	05-11-2010 03:15	05-14-2010 14:00	05-11-2010 03:15	05-12-2010 12:00	1:24	4:08	
+MW026	05-12-2010 23:23	05-14-2010 06:34	yes	Rainfall	yes	481	Rainfall event			05-12-2010 22:45	05-14-2010 14:00	0:38	7:26	
+MW027	05-18-2010 17:52	05-19-2010 07:46	no	Baseflow	yes	201	Baseflow							
+MW028	06-02-2010 14:15	NA	no	Blank	no	NA	Organic Trip Blank- poured N2-purged org-free blank water directly into 50 ml vials							
+MW029	06-02-2010 14:25	NA	no	Blank	no	NA	"Organic Sampler Blank- pumped ~400ml of blank water through sampler, then collected ~500ml in pickle jar; in lab, put through churn and syringe filter, into 50ml vials"							
+MW030	06-02-2010 14:41	NA	no	Baseflow	no	NA	"Organic Concurrent Sample- pumped native water through sampler into pickle jar; put through churn, syringe filter in lab."							
+MW031	06-02-2010 14:40	NA	no	Baseflow	no	NA	"Organic Concurrent Sample- single-dip grab sample at intake, using 50ml vials; no filtration in lab"							
+MW032	06-02-2010 17:44	06-03-2010 10:57	no	Rainfall 	yes	125	Rainfall event--very flashy thunderstorm	06-02-2010 17:40	06-03-2010 14:05	06-02-2010 17:40	06-03-2010 14:05	0:04	3:08	
+MW033	06-15-2010 15:16	06-16-2010 08:38	no	Rainfall 	yes	201	rainfall- short and intense- CSO	06-15-2010 15:05	06-16-2010 17:30	06-15-2010 15:05	06-16-2010 17:30	0:11	8:52	
+MW034S	06-30-2010 14:15	NA	no	Sediment	no	NA	bed sediment sample							
+MW035	07-13-2010 08:24		no	Baseflow	yes	NA	"Baseflow, pH failure ended it about 9 hrs early"							
+MW036	07-13-2010 08:53	07-13-2010 22:30	no	Baseflow	yes	135	"Baseflow, pH failure"							
+MW037	07-15-2010 07:31	07-16-2010 07:06	no	Rainfall	yes	376	CSO--caught the falling hydrograph	07-14-2010 21:50	07-17-2010 06:00	07-14-2010 21:50	07-17-2010 06:00	9:41	22:54	
+MW038	07-22-2010 10:46	07-23-2010 08:02	yes	Rainfall	yes	341	"huge storm, CSOs, flooding; divided event into two samples; rising limb, peak, and some of falling limb"	07-22-2010 09:40	07-25-2010 23:45	07-22-2010 09:40	07-23-2010 08:28	1:06	0:26	
+MW039	07-23-2010 08:55	07-25-2010 20:07	yes	Rainfall	yes	516	"huge storm, CSOs, flooding; second of two samples; falling limb and second peak"			07-23-2010 08:28	07-25-2010 23:45	0:27	3:38	
+MW040	08-04-2010 10:45	08-05-2010 07:58	no	Baseflow	yes	201	Baseflow							
+MW041	08-05-2010 09:40	08-05-2010 09:50	no	Blank	no	10	blank							
+MW041S	08-17-2010 11:50	NA	no	Sediment	no	NA	bed sed							
+MW042	09-13-2010 09:22	09-14-2010 07:47	no	Baseflow	yes	231	Baseflow							
+UW001	03-01-2010 10:14	03-02-2010 09:10	no	Baseflow	yes	221	Baseflow with a little snowmelt from mid-thirties temps and sun							
+UW002	03-11-2010 12:50	03-15-2010 08:47	no	Mix	yes	337	Snowmelt with rain	03-11-2010 11:20	03-16-2010 13:40	03-11-2010 11:20	03-16-2010 13:40	1:30	28:53	
+UW003S	03-23-2010 13:30	NA	no	Sediment	no	NA	bed sediment sample							
+UW004	04-07-2010 15:43	04-08-2010 15:23	no	Rainfall	yes	90.1	Rain event: equipment malfunction during early part of event. Sample begins just before peak and extends through falling hydrograph	04-07-2010 14:55	04-08-2010 22:15	04-07-2010 14:55	04-08-2010 22:15	0:48	6:52	
+UW005	04-25-2010 06:16	04-26-2010 08:03	no	Rainfall 	yes	494	Rainfall event--falling limb	04-25-2010 03:30	04-27-2010 19:30	04-25-2010 03:30	04-27-2010 19:30	2:46	35:27	
+UW006	05-11-2010 04:32	05-12-2010 08:27	no	Rainfall	yes	385	Rainfall event	05-11-2010 03:30	05-12-2010 12:00	05-11-2010 03:30	05-12-2010 12:00	1:02	3:33	
+UW007	05-18-2010 07:53	05-19-2010 07:41	no	Baseflow	yes	210	Baseflow							
+UW008	06-02-2010 15:20	NA	no	Blank	no	NA	Organic Trip Blank- poured N2-purged org-free blank water directly into 50 ml vials							
+UW009	06-02-2010 15:25	NA	no	Blank	no	NA	"Organic Sampler Blank- pumped ~400ml of blank water through sampler, then collected ~500ml in pickle jar; in lab, put through churn and syringe filter, into 50ml vials"							
+UW010	06-02-2010 15:34	NA	no	Baseflow	no	NA	Organic Concurrent Sample- pumped native water through sampler into pickle jar; processed as usual in lab.							
+UW011	06-02-2010 15:35	NA	no	Baseflow	no	NA	"Organic Concurrent Sample- single-dip grab sample at intake, using 50ml vials; no filtration in lab"							
+UW012S	06-30-2010 11:15	NA	no	Sediment	no	NA	bed sediment sample							
+UW013	07-13-2010 09:56	07-14-2010 08:06	no	Baseflow	yes	230	Baseflow							
+UW014	07-15-2010 07:20	07-16-2010 07:10	no	Rainfall	yes	470	CSO--caught the falling hydrograph	07-14-2010 21:00	07-17-2010 04:30	07-14-2010 21:00	07-17-2010 04:30	10:20	21:20	
+UW015	07-22-2010 11:41	07-23-2010 10:16	yes	Rainfall	yes	415	"huge storm, CSOs, flooding; divided event into two samples; rising limb, peak, and some of falling limb"	07-22-2010 09:30	07-25-2010 23:45	07-22-2010 09:30	07-23-2010 10:31	2:11	0:15	
+UW016	07-23-2010 10:46	07-25-2010 06:46	yes	Rainfall	yes	851	"huge storm, CSOs, flooding; second of two samples; falling limb and second peak"			07-23-2010 10:31	07-25-2010 23:45	0:15	16:59	
+UW017	08-04-2010 13:00	08-04-2010 13:05	no	Blank	no	10	blank - virus only							
+UW018	08-17-2010 10:55	NA	no	Sediment	no	NA	bed sediment sample							
+UW019	08-20-2010 18:45	08-23-2010 05:09	no	Rainfall	yes	305	storm event	08-20-2010 18:15	08-23-2010 07:30	08-20-2010 18:15	08-23-2010 07:30	0:30	2:21	
+UW020	09-01-2010 03:24	09-01-2010 15:17	no	Rainfall	yes	150	Rainfall	09-01-2010 02:45	09-01-2010 17:45	09-01-2010 02:45	09-01-2010 17:45	0:39	2:28	
+UW021	09-13-2010 08:52	09-14-2010 07:41	no	Baseflow	yes	230	Baseflow							
+UW022	10-13-2010 08:08	10-14-2010 07:23	no	Baseflow	yes	400	Baseflow							
+UW023	10-23-2010 23:42	10-24-2010 20:57	no	Rainfall 	yes	280	rainfall after 5 week dry period	10-23-2010 23:00	10-25-2010 00:30	10-23-2010 23:00	10-25-2010 00:30	0:42	3:33	
+UW024	10-26-2010 06:34	10-26-2010 23:20	no	Rainfall	yes	180	Rainfall	10-26-2010 05:15	10-27-2010 05:00	10-26-2010 05:15	10-27-2010 05:00	1:19	5:40	
+UW025	11-10-2010 09:28	11-11-2010 07:43	no	Baseflow	yes	280	Baseflow							
+UW026	11-22-2010 07:32	11-23-2010 00:40	no	Rainfall	yes	115	Rainfall	11-22-2010 05:00	11-23-2010 07:00	11-22-2010 05:00	11-23-2010 07:00	2:32	6:20	
+UW027	11-29-2010 19:31	11-30-2010 17:26	no	Rainfall	yes	125	Rainfall	11-29-2010 17:45	11-30-2010 21:15	11-29-2010 17:45	11-30-2010 21:15	1:46	3:49	
+UW028	12-11-2010 16:15	12-12-2010 16:43	no	Mix	yes	350	"melt, rain, snow"	12-11-2010 11:15	12-12-2010 20:10	12-11-2010 11:15	12-12-2010 20:10	5:00	3:27	
+UW029	12-19-2010 12:55	12-20-2010 03:01	no	Baseflow	yes	135	Baseflow							
+UW030	01-05-2011 10:33	01-06-2011 08:21	no	Baseflow	yes	225	Baseflow							
+UW031	02-28-2011 10:56	03-01-2011 15:45	no	Baseflow	NA	151	"baseflow; ran out of acid after 55 L, restarted at more frequent sampling rate"							
+UW032	03-09-2011 05:00	03-10-2011 09:04	no	Snowmelt	NA	245	Snowmelt	03-09-2011 02:15	03-10-2011 09:15	03-09-2011 02:15	03-10-2011 09:15	2:45	0:11	
+UW033	03-14-2011 11:48	03-16-2011 16:50	no	Snowmelt	NA	450	minor snowmelt	03-14-2011 11:30	03-16-2011 16:50	03-14-2011 11:30	03-16-2011 16:50	0:18	0:00	
+UW034	03-17-2011 13:15	03-19-2011 18:03	no	Snowmelt	NA	385	snowmelt	03-17-2011 08:30	03-19-2011 18:15	03-17-2011 08:30	03-19-2011 18:15	4:45	0:12	
+UW035	03-20-2011 09:37	03-21-2011 08:01	no	Rainfall	NA	395	rain; filter 2- virus only	03-20-2011 08:40	03-21-2011 23:45	03-20-2011 08:40	03-21-2011 23:45	0:57	15:44	
+UW036	03-22-2011 15:03	03-23-2011 21:49	no	Rainfall	NA	195	rain	03-22-2011 14:00	03-24-2011 08:00	03-22-2011 14:00	03-24-2011 08:00	1:03	10:11	
+UW037	03-29-2011 08:38	03-30-2011 10:37	no	Baseflow	NA	255	Baseflow							
+UW038	03-29-2011 08:46	03-30-2011 10:44	no	Replicate	NA	255	Baseflow Duplicate							

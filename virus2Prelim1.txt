@@ -1,0 +1,247 @@
+Study Name	LIDE Sample ID	Study Sample ID	Collection Start Date	"Adenovirus C,D,F"	Adenovirus A	Adenovirus B	Enterovirus	G1 Norovirus	G2 Norovirus	HAV	Rotavirus	Campylobacter	Salmonella	EHEC	Cryptosporidium	BVDV1	BVDV2	Rotavirus a	Rotavirus c	Bovine Enterovirus	Coronavirus	Bovine Adenovirus	Bovine Polyomavirus	Mycobacterium Avium	Mycobacterium Avium paratuber
+Milw Corridor Study USGS	33295 - 33296	HW 001	6-Apr-09	153.95	62.16	0	32.04	0	0	0	0														
+Milw Corridor Study USGS	33312 - 33313	HW 002	19-Apr-09	0	147.47	0	0	0	0	0	0														
+Milw Corridor Study USGS	33344 - 33345	HW 003	13-May-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33354 - 33355	HW 004	28-May-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33384 - 33385	HW 005	8-Jun-09	0	0	0	291.85	0	0	0	0														
+Milw Corridor Study USGS	33397 - 33398	HW 006	15-Jun-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33443 - 33444	HW 009	11-Aug-09	7.21	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33462 - 33463	HW 011	14-Sep-09	24.81	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33474 - 33475	HW 012	22-Sep-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33484 - 33485	HW 013	27-Sep-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33494 - 33495	HW 014	1-Oct-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33530 - 33531	HW 015	22-Oct-09	0.81	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33556 - 33557	HW 016	17-Nov-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33579 - 33580	HW 017	24-Dec-09	0.68	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33596 - 33597	HW 018	20-Jan-10	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33604 - 33605	HW 019	24-Jan-10	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33614 - 33615	HW 020	1-Mar-10	0	0	0	0	0	0	0	0	70.52	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33662 - 33663	HW 021	9-Mar-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33682 - 33683	HW 023	5-Apr-10	0	0	0	0	0	0	0	0	0	3.16	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33716 - 33717	HW 024	11-May-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33903 - 33902	HW 025	13-May-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	175.2	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33905 - 33904	HW 026	19-May-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100.46	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33907 - 33906	HW 027	2-Jun-10	0	0	0	926.09	0	0	0	0	0	0	0	0	0	0	260.73	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33909 - 33908	HW 028	15-Jun-10	0	0	0	0	0	0	0	0	10.45	0	0	0	0	0	204.22	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33912 - 33911	HW 030	13-Jul-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34568 - 34567	HW 031	15-Jul-10	0	0	0	0	0	0	0	0	1.04	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33914 - 33913	HW 032	22-Jul-10	0	0	0	1457.13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33916 - 33915	HW 033	23-Jul-10	0	0	0	343.12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33918 - 33917	HW 034	4-Aug-10	0	0	0	0	0	0	0	0	55.03	0	0	0	0	0	85.12	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33920 - 33919	HW 035	5-Aug-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34001 - 34000	HW 036	20-Aug-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34071 - 34070	HW 037	13-Oct-10	0	0	0	2.73	0	0	0	0	7.53	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34097 - 34096	HW 038	10-Nov-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34115 - 34114	HW 039	22-Nov-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34131 - 34130	HW 040	29-Nov-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34325 - 34324	HW 041	11-Dec-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34331 - 34330	HW 042	19-Dec-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34558 - 34557	HW 043	5-Jan-11	0	0	0	0	0	0	0	0	0.61	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34607 - 34606	HW 044	16-Feb-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34591 - 34590	HW 045	28-Feb-11	0.02	0	0	0.62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34619 - 34618	HW 046	9-Mar-11	0	0	0	5.89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34631 - 34630	HW 047	14-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34645 - 34644	HW 048	17-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34657 - 34656	HW 049	22-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34673 - 34672	HW 050	29-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34675 - 34674	HW 051	29-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34802 - 34801	HW 052	18-Apr-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33301 - 33302	LD 001	7-Apr-09	0	12.53	0	9.13	0	0	0	0														
+Milw Corridor Study USGS	33308 - 33309	LD 002	20-Apr-09	0	0	0	16.63	0	0	0	0														
+Milw Corridor Study USGS	33356 - 33357	LD 003	28-May-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33388 - 33389	LD 004	8-Jun-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33395 - 33396	LD 005	15-Jun-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33441 - 33442	LD 007	11-Aug-09		0	0	0		0	0	0														
+Milw Corridor Study USGS	33458 - 33459	LD 009	14-Sep-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33470 - 33471	LD 010	22-Sep-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33480 - 33481	LD 011	27-Sep-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33490 - 33491	LD 012	1-Oct-09	0.11	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33526 - 33527	LD 013	22-Oct-09	0.63	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33536 - 33537	LD 014	24-Oct-09	0	5.92	0	0	0	0	0	0														
+Milw Corridor Study USGS	33552 - 33553	LD 015	17-Nov-09	0.19	9.54	0	0	0	0	0	0														
+Milw Corridor Study USGS	33575 - 33576	LD 016	25-Dec-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33590 - 33591	LD 017	20-Jan-10	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33602 - 33603	LD 018	24-Jan-10	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33620 - 33621	LD 019	1-Mar-10	0	4.01	0	0	0	0	0	0	85.3	334.06	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33666 - 33667	LD 020	9-Mar-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33688 - 33689	LD 022	6-Apr-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33696 - 33697	LD 023	25-Apr-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33712 - 33713	LD 024	11-May-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33922 - 33921	LD 025	18-May-10	0	144.37	0	0	0	0	0	0	21.98	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33926 - 33925	LD 027	13-Jul-10	0	0	0	127.09	0	0	0	0	1.05	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34564 - 34563	LD 028	15-Jul-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33928 - 33927	LD 029	22-Jul-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.37	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33930 - 33929	LD 030	23-Jul-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.26	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33932 - 33931	LD 031	4-Aug-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34061 - 34060	LD 033	1-Sep-10	0	2782.13	0	0	0	0	0	0	211.97	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34125 - 34124	LD 034	13-Sep-10	3.66	1.78	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34075 - 34074	LD 035	23-Oct-10	0	0	0	0	0	0	0	0	5.23	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34083 - 34082	LD 036	26-Oct-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34091 - 34090	LD 037	10-Nov-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34335 - 34334	LD 038	5-Jan-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34603 - 34602	LD 039	16-Feb-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34593 - 34592	LD 040	28-Feb-11	0	0	0	0	0	0	0	0	1.49	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34613 - 34612	LD 041	9-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34625 - 34624	LD 042	14-Mar-11	0	0	0	10.33	0	0	0	0	0	36.52	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34635 - 34634	LD 043	17-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34651 - 34650	LD 044	22-Mar-11	5.91	0	0	0	0	0	0	0	3.26	0	0	0	0	0	7197.34	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34661 - 34660	LD 045	29-Mar-11	3.82	0	0	0	0	0	0	0	0	20.42	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34663 - 34662	LD 046	29-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34796 - 34795	LD 047	18-Apr-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33299 - 33300	MC 001	6-Apr-09	0.44	18.95	0	5.06	0	0	0	0														
+Milw Corridor Study USGS	33310 - 33311	MC 002	19-Apr-09	7.89	26.91	0	0	0	0	0	0														
+Milw Corridor Study USGS	33327 - 33328	MC 003	26-Apr-09	0	23.48	0	0	0	0	0	0														
+Milw Corridor Study USGS	33346 - 33347	MC 004	13-May-09	6.99	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33350 - 33351	MC 005	14-May-09	3.52	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33390 - 33391	MC 006	8-Jun-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33401 - 33402	MC 007	15-Jun-09	0	0	0	2.26	0	0	0	0														
+Milw Corridor Study USGS	33437 - 33438	MC 009	11-Aug-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33464 - 33465	MC 011	14-Sep-09	0.35	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33476 - 33477	MC 012	22-Sep-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33486 - 33487	MC 013	27-Sep-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33496 - 33497	MC 014	1-Oct-09	1.86	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33534 - 33535	MC 015	22-Oct-09	5.49	14.85	0	0	0	0	0	0														
+Milw Corridor Study USGS	33538 - 33539	MC 016	23-Oct-09	2.03	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33558 - 33559	MC 017	17-Nov-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33581 - 33582	MC 018	24-Dec-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33598 - 33599	MC 019	20-Jan-10	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33608 - 33609	MC 020	24-Jan-10	21.82	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33616 - 33617	MC 021	1-Mar-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33670 - 33671	MC 022	9-Mar-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33684 - 33685	MC 024	5-Apr-10	0	2.35	0	0	0	0	0	0	8.59	3.27	0	0	0	0	0	0	0	0	0	1.95	0	0
+Milw Corridor Study USGS	33704 - 33705	MC 025	25-Apr-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33706 - 33707	MC 026	7-May-10	6.33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33718 - 33719	MC 027	11-May-10	0	0	0	68.67	0	0	0	0	7.94	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33935 - 33934	MC 028	13-May-10	0	0	0	22.33	0	0	0	0	2.42	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33937 - 33936	MC 029	18-May-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33939 - 33938	MC 034	2-Jun-10	0	3.56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33942 - 33941	MC 036	14-Jul-10	0	0	0	0	0	0	0	0	1.86	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33944 - 33943	MC 038	22-Jul-10	1.84	0	0	0	0	0	0	0	0.13	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33946 - 33945	MC 039	23-Jul-10	0	2.03	0	0	0	0	0	0	21.54	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33948 - 33947	MC 040	4-Aug-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33950 - 33949	MC 041	5-Aug-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34067 - 34066	MC 042	1-Sep-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34119 - 34118	MC 043	13-Sep-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34069 - 34068	MC 044	13-Oct-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34081 - 34080	MC 045	23-Oct-10	60.59	0	0	0	0	0	0	0	20.38	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34089 - 34088	MC 046	26-Oct-10	1.43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34117 - 34116	MC 047	22-Nov-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34323 - 34322	MC 048	11-Dec-10	0.11	0	0	0	0	0	0	0	4.49	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34562 - 34561	MC 050	5-Jan-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34611 - 34610	MC 051	16-Feb-11	0	0	0	0	0	0	0	0	0	7.75	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34609 - 34608	MC 052	20-Feb-11	0	23.49	0	0	0	0	0	0	0	35.22	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34597 - 34596	MC 053	28-Feb-11	0	0	0	0	0	0	0	0	2.39	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34621 - 34620	MC 054	9-Mar-11	0	0	0	0	0	0	0	0	0	34.18	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34633 - 34632	MC 055	14-Mar-11	0	0	0	0	0	0	0	0	0.41	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34647 - 34646	MC 056	17-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14.34	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34649 - 34648	MC 057	20-Mar-11	0	0	0	0	0	0	0	0	0	2.54	0	0	0	0	0.43	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34659 - 34658	MC 058	22-Mar-11	0.46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34677 - 34676	MC 059	29-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34679 - 34678	MC 060	29-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34804 - 34803	MC 061	18-Apr-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33293 - 33294	MF 001	6-Apr-09	15.86	21.84	0	39.61	0	0	0	0														
+Milw Corridor Study USGS	33306 - 33307	MF 002	20-Apr-09	0.38	3.47	0	0.76	0	0	0	0														
+Milw Corridor Study USGS	33393 - 33394	MF 003	15-Jun-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33417 - 33418	MF 005	22-Jul-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33439 - 33440	MF 006	11-Aug-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33466 - 33467	MF 008	15-Sep-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33468 - 33469	MF 009	22-Sep-09	0.11	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33478 - 33479	MF 010	27-Sep-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33488 - 33489	MF 011	1-Oct-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33528 - 33529	MF 012	22-Oct-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33550 - 33551	MF 013	17-Nov-09	14.35	30.14	0	0	0	0	0	0														
+Milw Corridor Study USGS	33573 - 33574	MF 014	24-Dec-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33592 - 33593	MF 015	20-Jan-10	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33600 - 33601	MF 016	24-Jan-10	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33622 - 33623	MF 017	1-Mar-10	0	331.74	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33660 - 33661	MF 018	9-Mar-10	0	37.12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33690 - 33691	MF 020	6-Apr-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33698 - 33699	MF 021	24-Apr-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33953 - 33952	MF 022	18-May-10	0	0.11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33955 - 33954	MF 023	15-Jun-10	0	2.69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33958 - 33957	MF 025	13-Jul-10	0	0	0	0	0	0	0	0	0	0.21	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34570 - 34569	MF 026	15-Jul-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33960 - 33959	MF 027	22-Jul-10	0	0	0	0	0	0	0	0	0.1	0.08	0.11	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33962 - 33961	MF 028	23-Jul-10	0	0	0	0	0	0	0	0	0.12	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33964 - 33963	MF 029	4-Aug-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34063 - 34062	MF 031	1-Sep-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34127 - 34126	MF 032	13-Sep-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34077 - 34076	MF 033	23-Oct-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34085 - 34084	MF 034	26-Oct-10	0	0	0	48.97	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34093 - 34092	MF 035	10-Nov-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34111 - 34110	MF 036	22-Nov-10	0	0	0	0.09	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34556 - 34555	MF 037	5-Jan-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34605 - 34604	MF 038	16-Feb-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34595 - 34594	MF 039	28-Feb-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34615 - 34614	MF 040	9-Mar-11	0	0	0	0	0	0	0	0	8.24	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34627 - 34626	MF 041	14-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34637 - 34636	MF 042	17-Mar-11	0	0	0	0	0	0	0	0	0	5.71	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34639 - 34638	MF 043	20-Mar-11	0	0	0	0	0	0	0	0	0	16.7	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34653 - 34652	MF 044	22-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34665 - 34664	MF 045	29-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34667 - 34666	MF 046	29-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34798 - 34797	MF 047	18-Apr-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33297 - 33298	MW 001	6-Apr-09	16.8	132.68	0	0	0	0	0	0														
+Milw Corridor Study USGS	33314 - 33315	MW 002	19-Apr-09	32.52	148.5	0	24.26	0	0	0	0														
+Milw Corridor Study USGS	33329 - 33330	MW 003	26-Apr-09	0	5.44	0	0	0	0	0	0														
+Milw Corridor Study USGS	33348 - 33349	MW 004	13-May-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33386 - 33387	MW 005	8-Jun-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33399 - 33400	MW 006	15-Jun-09	0	5.74	0	0.94	0	0	0	0														
+Milw Corridor Study USGS	33445 - 33446	MW 009	11-Aug-09	43.46	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33460 - 33461	MW 011	14-Sep-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33472 - 33473	MW 012	22-Sep-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33482 - 33483	MW 013	27-Sep-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33492 - 33493	MW 014	1-Oct-09	1.73	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33532 - 33533	MW 015	22-Oct-09	9.53	33.06	0	0.65	0	0	0	0														
+Milw Corridor Study USGS	33554 - 33555	MW 016	18-Nov-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33577 - 33578	MW 017	24-Dec-09	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33594 - 33595	MW 018	20-Jan-10	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33606 - 33607	MW 019	22-Jan-10	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33612 - 33613	MW 020	1-Mar-10	0	0	0	307.78	0	0	0	0	49.14	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33664 - 33665	MW 021	9-Mar-10	0	11.36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35.44	0	0
+Milw Corridor Study USGS	33686 - 33687	MW 023	5-Apr-10	41.32	0	0	0	0	0	0	0	40.36	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33700 - 33701	MW 024	24-Apr-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33714 - 33715	MW 025	11-May-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33967 - 33966	MW 026	12-May-10	0.05	0.05	0	0	0	0	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33969 - 33968	MW 027	18-May-10	0	0	0	379.87	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33971 - 33970	MW 032	2-Jun-10	0.26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33973 - 33972	MW 033	15-Jun-10	0	0	0	0	0	0	0	0	0	0.06	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33976 - 33975	MW 036	13-Jul-10	5.16	0	0	0	0	0	0	0	0	0	0	0	0	0	16.64	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34566 - 34565	MW 037	15-Jul-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33978 - 33977	MW 038	22-Jul-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33980 - 33979	MW 039	23-Jul-10	0.05	0	0	179.19	0	0	0	0	0	0	0	0	0	0	16.99	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33982 - 33981	MW 040	4-Aug-10	0	0	0	5.55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33984 - 33983	MW 041	5-Aug-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34121 - 34120	MW 042	13-Sep-10	0	0	0	1.83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33618 - 33619	UW 001	1-Mar-10	0	0	0	0	0	0	0	0	13.61	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33668 - 33669	UW 002	11-Mar-10	6.82	0	0	0	0	0	0	0	12.46	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33692 - 33693	UW 004	7-Apr-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33702 - 33703	UW 005	25-Apr-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33710 - 33711	UW 006	11-May-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33987 - 33986	UW 007	18-May-10	0	0.39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33990 - 33989	UW 013	13-Jul-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34.85	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34572 - 34571	UW 014	15-Jul-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33992 - 33991	UW 015	22-Jul-10	0.24	0.24	0	2.14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33994 - 33993	UW 016	23-Jul-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33996 - 33995	UW 017	4-Aug-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33999 - 33998	UW 019	20-Aug-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34065 - 34064	UW 020	1-Sep-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34123 - 34122	UW 021	13-Sep-10	0	1.55	0	0.61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34073 - 34072	UW 022	13-Oct-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34079 - 34078	UW 023	23-Oct-10	0	0	0	3.67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34087 - 34086	UW 024	26-Oct-10	0	0.26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34095 - 34094	UW 025	10-Nov-10	0	7.77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34113 - 34112	UW 026	22-Nov-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34129 - 34128	UW 027	29-Nov-10	0	0	0	0	0	0	0	0	20.55	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34327 - 34326	UW 028	11-Dec-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34329 - 34328	UW 029	19-Dec-10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34560 - 34559	UW 030	5-Jan-11	0	1.68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34589 - 34588	UW 031	28-Feb-11	0	0	0	0	0	0	0	0	0.44	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34617 - 34616	UW 032	9-Mar-11	0	0	0	130.72	0	0	0	0	0	12.77	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34629 - 34628	UW 033	14-Mar-11	0	0	0	0	0	0	0	0	0	0.12	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34641 - 34640	UW 034	17-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34643 - 34642	UW 035	20-Mar-11	0	0.31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34655 - 34654	UW 036	22-Mar-11	0	0	0	0	0	0	0	0	4.46	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34669 - 34668	UW 037	29-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34671 - 34670	UW 038	29-Mar-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34800 - 34799	UW 039	18-Apr-11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

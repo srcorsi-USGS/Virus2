@@ -1,0 +1,230 @@
+Study Name	LIDE Sample ID	Site Name	Study Sample ID	Sample Combining needed?	USGS_ID	Collection Start Date	Sample Type	Event Type	"Adenovirus C,D,F"	Adenovirus A	Adenovirus B	Enterovirus	G1 Norovirus	G2 Norovirus	HAV	Rotavirus	Campylobacter	Salmonella	EHEC	Cryptosporidium	BVDV1	BVDV2	Rotavirus a	Rotavirus c	Bovine Enterovirus	Coronavirus	Bovine Adenovirus	Bovine Polyomavirus	Mycobacterium Avium	Mycobacterium Avium paratuber
+Milw Corridor Study USGS	33295 - 33296	Honey	HW 001	FALSE	HW 001	6-Apr-09	Baseflow	Baseflow	153.95	62.16	0	32.04	0	0	0	0														
+Milw Corridor Study USGS	33312 - 33313	Honey	HW 002	FALSE	HW 002	19-Apr-09	Event	Rainfall 	0	147.47	0	0	0	0	0	0														
+Milw Corridor Study USGS	33344 - 33345	Honey	HW 003	FALSE	HW 003	13-May-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33384 - 33385	Honey	HW 005	FALSE	HW 005	8-Jun-09	Event	Rainfall 	0	0	0	291.85	0	0	0	0														
+Milw Corridor Study USGS	33397 - 33398	Honey	HW 006	FALSE	HW 006	15-Jun-09	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33443 - 33444	Honey	HW 009	FALSE	HW 009	11-Aug-09	Baseflow	Baseflow	7.21	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33462 - 33463	Honey	HW 011	FALSE	HW 011	14-Sep-09	Baseflow	Baseflow	24.81	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33474 - 33475	Honey	HW 012	FALSE	HW 012	22-Sep-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33484 - 33485	Honey	HW 013	FALSE	HW 013	27-Sep-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33494 - 33495	Honey	HW 014	FALSE	HW 014	1-Oct-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33530 - 33531	Honey	HW 015	FALSE	HW 015	22-Oct-09	Event	Rainfall 	0.81	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33556 - 33557	Honey	HW 016	FALSE	HW 016	17-Nov-09	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33579 - 33580	Honey	HW 017	FALSE	HW 017	24-Dec-09	Event	Mix	0.68	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33596 - 33597	Honey	HW 018	FALSE	HW 018	20-Jan-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33604 - 33605	Honey	HW 019	FALSE	HW 019	24-Jan-10	Event	Mix	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33614 - 33615	Honey	HW 020	FALSE	HW 020	1-Mar-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	70.52	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33662 - 33663	Honey	HW 021	FALSE	HW 021	9-Mar-10	Event	Mix	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33682 - 33683	Honey	HW 023	FALSE	HW 023	5-Apr-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	3.16	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33716 - 33717	Honey	HW 024	FALSE	HW 024	11-May-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33903 - 33902	Honey	HW 025	FALSE	HW 025	13-May-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	175.2	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33905 - 33904	Honey	HW 026	FALSE	HW 026	19-May-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100.46	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33907 - 33906	Honey	HW 027	FALSE	HW 027	2-Jun-10	Event	Rainfall 	0	0	0	926.09	0	0	0	0	0	0	0	0	0	0	260.73	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33909 - 33908	Honey	HW 028	FALSE	HW 028	15-Jun-10	Event	Rainfall 	0	0	0	0	0	0	0	0	10.45	0	0	0	0	0	204.22	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33912 - 33911	Honey	HW 030	FALSE	HW 030	13-Jul-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34568 - 34567	Honey	HW 031	FALSE	HW 031	15-Jul-10	Event	Rainfall 	0	0	0	0	0	0	0	0	1.04	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33914 - 33913	Honey	HW 032	FALSE	HW 032	22-Jul-10	Event	Rainfall 	0	0	0	1457.13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33916 - 33915	Honey	HW 033	FALSE	HW 033	23-Jul-10	Event	Rainfall 	0	0	0	343.12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33918 - 33917	Honey	HW 034	FALSE	HW 034	4-Aug-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	55.03	0	0	0	0	0	85.12	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34001 - 34000	Honey	HW 036	FALSE	HW 036	20-Aug-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34071 - 34070	Honey	HW 037	FALSE	HW 037	13-Oct-10	Baseflow	Baseflow	0	0	0	2.73	0	0	0	0	7.53	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34097 - 34096	Honey	HW 038	FALSE	HW 038	10-Nov-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34115 - 34114	Honey	HW 039	FALSE	HW 039	22-Nov-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34131 - 34130	Honey	HW 040	FALSE	HW 040	29-Nov-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34325 - 34324	Honey	HW 041	FALSE	HW 041	11-Dec-10	Event	Mix	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34331 - 34330	Honey	HW 042	FALSE	HW 042	19-Dec-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34558 - 34557	Honey	HW 043	FALSE	HW 043	5-Jan-11	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0.61	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34607 - 34606	Honey	HW 044	FALSE	HW 044	16-Feb-11	Event	Mix	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34591 - 34590	Honey	HW 045	FALSE	HW 045	28-Feb-11	Baseflow	Baseflow	0.02	0	0	0.62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34619 - 34618	Honey	HW 046	FALSE	HW 046	9-Mar-11	Event	Snowmelt	0	0	0	5.89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34631 - 34630	Honey	HW 047	TRUE	HW 047	14-Mar-11	Event	Snowmelt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34645 - 34644	Honey	HW 048	TRUE	HW 047	17-Mar-11	Event	Snowmelt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34657 - 34656	Honey	HW 049	FALSE	HW 049	22-Mar-11	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34673 - 34672	Honey	HW 050	FALSE	HW 050	29-Mar-11	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33301 - 33302	Donges Bay	LD 001	FALSE	LD 001	7-Apr-09	Baseflow	Baseflow	0	12.53	0	9.13	0	0	0	0														
+Milw Corridor Study USGS	33308 - 33309	Donges Bay	LD 002	FALSE	LD 002	20-Apr-09	Event	Rainfall 	0	0	0	16.63	0	0	0	0														
+Milw Corridor Study USGS	33388 - 33389	Donges Bay	LD 004	FALSE	LD 004	8-Jun-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33395 - 33396	Donges Bay	LD 005	FALSE	LD 005	15-Jun-09	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33441 - 33442	Donges Bay	LD 007	FALSE	LD 007	11-Aug-09	Baseflow	Baseflow		0	0	0		0	0	0														
+Milw Corridor Study USGS	33458 - 33459	Donges Bay	LD 009	FALSE	LD 009	14-Sep-09	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33470 - 33471	Donges Bay	LD 010	FALSE	LD 010	22-Sep-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33480 - 33481	Donges Bay	LD 011	FALSE	LD 011	27-Sep-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33490 - 33491	Donges Bay	LD 012	FALSE	LD 012	1-Oct-09	Event	Rainfall 	0.11	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33526 - 33527	Donges Bay	LD 013	TRUE	LD 013	22-Oct-09	Event	Rainfall 	0.63	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33536 - 33537	Donges Bay	LD 014	TRUE	LD 013	24-Oct-09	Event	Rainfall 	0	5.92	0	0	0	0	0	0														
+Milw Corridor Study USGS	33552 - 33553	Donges Bay	LD 015	FALSE	LD 015	17-Nov-09	Baseflow	Baseflow	0.19	9.54	0	0	0	0	0	0														
+Milw Corridor Study USGS	33575 - 33576	Donges Bay	LD 016	FALSE	LD 016	25-Dec-09	Event	Mix	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33590 - 33591	Donges Bay	LD 017	FALSE	LD 017	20-Jan-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33602 - 33603	Donges Bay	LD 018	FALSE	LD 018	24-Jan-10	Event	Mix	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33620 - 33621	Donges Bay	LD 019	FALSE	LD 019	1-Mar-10	Baseflow	Baseflow	0	4.01	0	0	0	0	0	0	85.3	334.06	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33666 - 33667	Donges Bay	LD 020	FALSE	LD 020	9-Mar-10	Event	Mix	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33688 - 33689	Donges Bay	LD 022	FALSE	LD 022	6-Apr-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33696 - 33697	Donges Bay	LD 023	FALSE	LD 023	25-Apr-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33712 - 33713	Donges Bay	LD 024	FALSE	LD 024	11-May-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33922 - 33921	Donges Bay	LD 025	FALSE	LD 025	18-May-10	Baseflow	Baseflow	0	144.37	0	0	0	0	0	0	21.98	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33926 - 33925	Donges Bay	LD 027	FALSE	LD 027	13-Jul-10	Baseflow	Baseflow	0	0	0	127.09	0	0	0	0	1.05	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34564 - 34563	Donges Bay	LD 028	FALSE	LD 028	15-Jul-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33928 - 33927	Donges Bay	LD 029	TRUE	LD 029	22-Jul-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.37	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33930 - 33929	Donges Bay	LD 030	TRUE	LD 029	23-Jul-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.26	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34061 - 34060	Donges Bay	LD 033	FALSE	LD 033	1-Sep-10	Event	Rainfall 	0	2782.13	0	0	0	0	0	0	211.97	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34125 - 34124	Donges Bay	LD 034	FALSE	LD 034	13-Sep-10	Baseflow	Baseflow	3.66	1.78	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34075 - 34074	Donges Bay	LD 035	FALSE	LD 035	23-Oct-10	Event	Rainfall 	0	0	0	0	0	0	0	0	5.23	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34083 - 34082	Donges Bay	LD 036	FALSE	LD 036	26-Oct-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34091 - 34090	Donges Bay	LD 037	FALSE	LD 037	10-Nov-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34335 - 34334	Donges Bay	LD 038	FALSE	LD 038	5-Jan-11	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34603 - 34602	Donges Bay	LD 039	FALSE	LD 039	16-Feb-11	Event	Mix	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34593 - 34592	Donges Bay	LD 040	FALSE	LD 040	28-Feb-11	Baseflow	Baseflow	0	0	0	0	0	0	0	0	1.49	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34613 - 34612	Donges Bay	LD 041	FALSE	LD 041	9-Mar-11	Event	Snowmelt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34625 - 34624	Donges Bay	LD 042	FALSE	LD 042	14-Mar-11	Event	Snowmelt	0	0	0	10.33	0	0	0	0	0	36.52	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34635 - 34634	Donges Bay	LD 043	FALSE	LD 043	17-Mar-11	Event	Snowmelt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34651 - 34650	Donges Bay	LD 044	FALSE	LD 044	22-Mar-11	Event	Rainfall 	5.91	0	0	0	0	0	0	0	3.26	0	0	0	0	0	7197.34	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34661 - 34660	Donges Bay	LD 045	FALSE	LD 045	29-Mar-11	Baseflow	Baseflow	3.82	0	0	0	0	0	0	0	0	20.42	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33299 - 33300	16th St.	MC 001	FALSE	MC 001	6-Apr-09	Baseflow	Baseflow	0.44	18.95	0	5.06	0	0	0	0														
+Milw Corridor Study USGS	33310 - 33311	16th St.	MC 002	FALSE	MC 002	19-Apr-09	Event	Rainfall 	7.89	26.91	0	0	0	0	0	0														
+Milw Corridor Study USGS	33327 - 33328	16th St.	MC 003	FALSE	MC 003	26-Apr-09	Event	Rainfall 	0	23.48	0	0	0	0	0	0														
+Milw Corridor Study USGS	33346 - 33347	16th St.	MC 004	TRUE	MC 004	13-May-09	Event	Rainfall 	6.99	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33350 - 33351	16th St.	MC 005	TRUE	MC 004	14-May-09	Event	Rainfall 	3.52	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33390 - 33391	16th St.	MC 006	FALSE	MC 006	8-Jun-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33401 - 33402	16th St.	MC 007	FALSE	MC 007	15-Jun-09	Baseflow	Baseflow	0	0	0	2.26	0	0	0	0														
+Milw Corridor Study USGS	33437 - 33438	16th St.	MC 009	FALSE	MC 009	11-Aug-09	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33464 - 33465	16th St.	MC 011	FALSE	MC 011	14-Sep-09	Baseflow	Baseflow	0.35	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33476 - 33477	16th St.	MC 012	FALSE	MC 012	22-Sep-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33486 - 33487	16th St.	MC 013	FALSE	MC 013	27-Sep-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33496 - 33497	16th St.	MC 014	FALSE	MC 014	1-Oct-09	Event	Rainfall 	1.86	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33534 - 33535	16th St.	MC 015	TRUE	MC 015	22-Oct-09	Event	Rainfall 	5.49	14.85	0	0	0	0	0	0														
+Milw Corridor Study USGS	33538 - 33539	16th St.	MC 016	TRUE	MC 015	23-Oct-09	Event	Rainfall 	2.03	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33558 - 33559	16th St.	MC 017	FALSE	MC 017	17-Nov-09	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33581 - 33582	16th St.	MC 018	FALSE	MC 018	24-Dec-09	Event	Mix	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33598 - 33599	16th St.	MC 019	FALSE	MC 019	20-Jan-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33608 - 33609	16th St.	MC 020	FALSE	MC 020	24-Jan-10	Event	Mix	21.82	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33616 - 33617	16th St.	MC 021	FALSE	MC 021	1-Mar-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33670 - 33671	16th St.	MC 022	FALSE	MC 022	9-Mar-10	Event	Mix	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33684 - 33685	16th St.	MC 024	FALSE	MC 024	5-Apr-10	Event	Rainfall 	0	2.35	0	0	0	0	0	0	8.59	3.27	0	0	0	0	0	0	0	0	0	1.95	0	0
+Milw Corridor Study USGS	33704 - 33705	16th St.	MC 025	FALSE	MC 025	25-Apr-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33706 - 33707	16th St.	MC 026	FALSE	MC 026	7-May-10	Event	Rainfall 	6.33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33718 - 33719	16th St.	MC 027	FALSE	MC 027	11-May-10	Event	Rainfall 	0	0	0	68.67	0	0	0	0	7.94	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33935 - 33934	16th St.	MC 028	FALSE	MC 028	13-May-10	Event	Rainfall 	0	0	0	22.33	0	0	0	0	2.42	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33937 - 33936	16th St.	MC 029	FALSE	MC 029	18-May-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33939 - 33938	16th St.	MC 034	FALSE	MC 034	2-Jun-10	Event	Rainfall 	0	3.56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33942 - 33941	16th St.	MC 036	FALSE	MC 036	14-Jul-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	1.86	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33944 - 33943	16th St.	MC 038	TRUE	MC 038	22-Jul-10	Event	Rainfall 	1.84	0	0	0	0	0	0	0	0.13	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33946 - 33945	16th St.	MC 039	TRUE	MC 038	23-Jul-10	Event	Rainfall 	0	2.03	0	0	0	0	0	0	21.54	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33948 - 33947	16th St.	MC 040	FALSE	MC 040	4-Aug-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34067 - 34066	16th St.	MC 042	FALSE	MC 042	1-Sep-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34119 - 34118	16th St.	MC 043	FALSE	MC 043	13-Sep-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34069 - 34068	16th St.	MC 044	FALSE	MC 044	13-Oct-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34081 - 34080	16th St.	MC 045	FALSE	MC 045	23-Oct-10	Event	Rainfall 	60.59	0	0	0	0	0	0	0	20.38	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34089 - 34088	16th St.	MC 046	FALSE	MC 046	26-Oct-10	Event	Rainfall 	1.43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34117 - 34116	16th St.	MC 047	FALSE	MC 047	22-Nov-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34323 - 34322	16th St.	MC 048	FALSE	MC 048	11-Dec-10	Event	Mix	0.11	0	0	0	0	0	0	0	4.49	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS		16th St.	MC 049	FALSE	MC 049	19-Dec-10	Baseflow	Baseflow																						
+Milw Corridor Study USGS	34562 - 34561	16th St.	MC 050	FALSE	MC 050	5-Jan-11	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34611 - 34610	16th St.	MC 051	TRUE	MC 051	16-Feb-11	Event	Mix	0	0	0	0	0	0	0	0	0	7.75	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34609 - 34608	16th St.	MC 052	TRUE	MC 051	20-Feb-11	Event	Snowmelt	0	23.49	0	0	0	0	0	0	0	35.22	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34597 - 34596	16th St.	MC 053	FALSE	MC 053	28-Feb-11	Baseflow	Baseflow	0	0	0	0	0	0	0	0	2.39	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34621 - 34620	16th St.	MC 054	FALSE	MC 054	9-Mar-11	Event	Mix	0	0	0	0	0	0	0	0	0	34.18	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34633 - 34632	16th St.	MC 055	FALSE	MC 055	14-Mar-11	Event	Snowmelt	0	0	0	0	0	0	0	0	0.41	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34647 - 34646	16th St.	MC 056	FALSE	MC 056	17-Mar-11	Event	Snowmelt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14.34	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34649 - 34648	16th St.	MC 057	FALSE	MC 057	20-Mar-11	Event	Rainfall 	0	0	0	0	0	0	0	0	0	2.54	0	0	0	0	0.43	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34659 - 34658	16th St.	MC 058	FALSE	MC 058	22-Mar-11	Event	Rainfall 	0.46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34677 - 34676	16th St.	MC 059	FALSE	MC 059	29-Mar-11	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33293 - 33294	Meno Falls	MF 001	FALSE	MF 001	6-Apr-09	Baseflow	Baseflow	15.86	21.84	0	39.61	0	0	0	0														
+Milw Corridor Study USGS	33306 - 33307	Meno Falls	MF 002	FALSE	MF 002	20-Apr-09	Event	Rainfall 	0.38	3.47	0	0.76	0	0	0	0														
+Milw Corridor Study USGS	33393 - 33394	Meno Falls	MF 003	FALSE	MF 003	15-Jun-09	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33417 - 33418	Meno Falls	MF 005	FALSE	MF 005	22-Jul-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33439 - 33440	Meno Falls	MF 006	FALSE	MF 006	11-Aug-09	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33466 - 33467	Meno Falls	MF 008	FALSE	MF 008	15-Sep-09	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33468 - 33469	Meno Falls	MF 009	FALSE	MF 009	22-Sep-09	Event	Rainfall 	0.11	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33478 - 33479	Meno Falls	MF 010	FALSE	MF 010	27-Sep-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33488 - 33489	Meno Falls	MF 011	FALSE	MF 011	1-Oct-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33528 - 33529	Meno Falls	MF 012	FALSE	MF 012	22-Oct-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33550 - 33551	Meno Falls	MF 013	FALSE	MF 013	17-Nov-09	Baseflow	Baseflow	14.35	30.14	0	0	0	0	0	0														
+Milw Corridor Study USGS	33573 - 33574	Meno Falls	MF 014	FALSE	MF 014	24-Dec-09	Event	Mix	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33592 - 33593	Meno Falls	MF 015	FALSE	MF 015	20-Jan-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33600 - 33601	Meno Falls	MF 016	FALSE	MF 016	24-Jan-10	Event	Mix	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33622 - 33623	Meno Falls	MF 017	FALSE	MF 017	1-Mar-10	Baseflow	Baseflow	0	331.74	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33660 - 33661	Meno Falls	MF 018	FALSE	MF 018	9-Mar-10	Event	Mix	0	37.12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33690 - 33691	Meno Falls	MF 020	FALSE	MF 020	6-Apr-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33698 - 33699	Meno Falls	MF 021	FALSE	MF 021	24-Apr-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33953 - 33952	Meno Falls	MF 022	FALSE	MF 022	18-May-10	Baseflow	Baseflow	0	0.11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33955 - 33954	Meno Falls	MF 023	FALSE	MF 023	15-Jun-10	Event	Rainfall 	0	2.69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33958 - 33957	Meno Falls	MF 025	FALSE	MF 025	13-Jul-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0.21	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34570 - 34569	Meno Falls	MF 026	FALSE	MF 026	15-Jul-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33960 - 33959	Meno Falls	MF 027	TRUE	MF 027	22-Jul-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0.1	0.08	0.11	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33962 - 33961	Meno Falls	MF 028	TRUE	MF 027	23-Jul-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0.12	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34063 - 34062	Meno Falls	MF 031	FALSE	MF 031	1-Sep-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34127 - 34126	Meno Falls	MF 032	FALSE	MF 032	13-Sep-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34077 - 34076	Meno Falls	MF 033	FALSE	MF 033	23-Oct-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34085 - 34084	Meno Falls	MF 034	FALSE	MF 034	26-Oct-10	Event	Rainfall 	0	0	0	48.97	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34093 - 34092	Meno Falls	MF 035	FALSE	MF 035	10-Nov-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34111 - 34110	Meno Falls	MF 036	FALSE	MF 036	22-Nov-10	Event	Rainfall 	0	0	0	0.09	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34556 - 34555	Meno Falls	MF 037	FALSE	MF 037	5-Jan-11	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34605 - 34604	Meno Falls	MF 038	FALSE	MF 038	16-Feb-11	Event	Mix	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34595 - 34594	Meno Falls	MF 039	FALSE	MF 039	28-Feb-11	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34615 - 34614	Meno Falls	MF 040	FALSE	MF 040	9-Mar-11	Event	Snowmelt	0	0	0	0	0	0	0	0	8.24	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34627 - 34626	Meno Falls	MF 041	TRUE	MF 041	14-Mar-11	Event	Snowmelt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34637 - 34636	Meno Falls	MF 042	TRUE	MF 041	17-Mar-11	Event	Snowmelt	0	0	0	0	0	0	0	0	0	5.71	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34639 - 34638	Meno Falls	MF 043	TRUE	MF 043	20-Mar-11	Event	Rainfall 	0	0	0	0	0	0	0	0	0	16.7	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34653 - 34652	Meno Falls	MF 044	TRUE	MF 043	22-Mar-11	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34665 - 34664	Meno Falls	MF 045	FALSE	MF 045	29-Mar-11	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33297 - 33298	70th St.	MW 001	FALSE	MW 001	6-Apr-09	Baseflow	Baseflow	16.8	132.68	0	0	0	0	0	0														
+Milw Corridor Study USGS	33314 - 33315	70th St.	MW 002	FALSE	MW 002	19-Apr-09	Event	Rainfall 	32.52	148.5	0	24.26	0	0	0	0														
+Milw Corridor Study USGS	33329 - 33330	70th St.	MW 003	FALSE	MW 003	26-Apr-09	Event	Rainfall 	0	5.44	0	0	0	0	0	0														
+Milw Corridor Study USGS	33348 - 33349	70th St.	MW 004	FALSE	MW 004	13-May-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33386 - 33387	70th St.	MW 005	FALSE	MW 005	8-Jun-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33399 - 33400	70th St.	MW 006	FALSE	MW 006	15-Jun-09	Baseflow	Baseflow	0	5.74	0	0.94	0	0	0	0														
+Milw Corridor Study USGS	33445 - 33446	70th St.	MW 009	FALSE	MW 009	11-Aug-09	Baseflow	Baseflow	43.46	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33460 - 33461	70th St.	MW 011	FALSE	MW 011	14-Sep-09	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33472 - 33473	70th St.	MW 012	FALSE	MW 012	22-Sep-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33482 - 33483	70th St.	MW 013	FALSE	MW 013	27-Sep-09	Event	Rainfall 	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33492 - 33493	70th St.	MW 014	FALSE	MW 014	1-Oct-09	Event	Rainfall 	1.73	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33532 - 33533	70th St.	MW 015	FALSE	MW 015	22-Oct-09	Event	Rainfall 	9.53	33.06	0	0.65	0	0	0	0														
+Milw Corridor Study USGS	33554 - 33555	70th St.	MW 016	FALSE	MW 016	18-Nov-09	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33577 - 33578	70th St.	MW 017	FALSE	MW 017	24-Dec-09	Event	Mix	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33594 - 33595	70th St.	MW 018	FALSE	MW 018	20-Jan-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33606 - 33607	70th St.	MW 019	FALSE	MW 019	22-Jan-10	Event	Mix	0	0	0	0	0	0	0	0														
+Milw Corridor Study USGS	33612 - 33613	70th St.	MW 020	FALSE	MW 020	1-Mar-10	Baseflow	Baseflow	0	0	0	307.78	0	0	0	0	49.14	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33664 - 33665	70th St.	MW 021	FALSE	MW 021	9-Mar-10	Event	Mix	0	11.36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35.44	0	0
+Milw Corridor Study USGS	33686 - 33687	70th St.	MW 023	FALSE	MW 023	5-Apr-10	Event	Rainfall 	41.32	0	0	0	0	0	0	0	40.36	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33700 - 33701	70th St.	MW 024	FALSE	MW 024	24-Apr-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33714 - 33715	70th St.	MW 025	FALSE	MW 025	11-May-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33967 - 33966	70th St.	MW 026	FALSE	MW 026	12-May-10	Event	Rainfall 	0.05	0.05	0	0	0	0	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33969 - 33968	70th St.	MW 027	FALSE	MW 027	18-May-10	Baseflow	Baseflow	0	0	0	379.87	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33971 - 33970	70th St.	MW 032	FALSE	MW 032	2-Jun-10	Event	Rainfall 	0.26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33973 - 33972	70th St.	MW 033	FALSE	MW 033	15-Jun-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0.06	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33976 - 33975	70th St.	MW 036	FALSE	MW 036	13-Jul-10	Baseflow	Baseflow	5.16	0	0	0	0	0	0	0	0	0	0	0	0	0	16.64	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34566 - 34565	70th St.	MW 037	FALSE	MW 037	15-Jul-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33978 - 33977	70th St.	MW 038	TRUE	MW 038	22-Jul-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33980 - 33979	70th St.	MW 039	TRUE	MW 038	23-Jul-10	Event	Rainfall 	0.05	0	0	179.19	0	0	0	0	0	0	0	0	0	0	16.99	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33982 - 33981	70th St.	MW 040	FALSE	MW 040	4-Aug-10	Baseflow	Baseflow	0	0	0	5.55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34121 - 34120	70th St.	MW 042	FALSE	MW 042	13-Sep-10	Baseflow	Baseflow	0	0	0	1.83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33618 - 33619	Underwood	UW 001	FALSE	UW 001	1-Mar-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	13.61	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33668 - 33669	Underwood	UW 002	FALSE	UW 002	11-Mar-10	Event	Mix	6.82	0	0	0	0	0	0	0	12.46	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33692 - 33693	Underwood	UW 004	FALSE	UW 004	7-Apr-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33702 - 33703	Underwood	UW 005	FALSE	UW 005	25-Apr-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33710 - 33711	Underwood	UW 006	FALSE	UW 006	11-May-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33987 - 33986	Underwood	UW 007	FALSE	UW 007	18-May-10	Baseflow	Baseflow	0	0.39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33990 - 33989	Underwood	UW 013	FALSE	UW 013	13-Jul-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34.85	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34572 - 34571	Underwood	UW 014	FALSE	UW 014	15-Jul-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33992 - 33991	Underwood	UW 015	TRUE	UW 015	22-Jul-10	Event	Rainfall 	0.24	0.24	0	2.14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33994 - 33993	Underwood	UW 016	TRUE	UW 015	23-Jul-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	33999 - 33998	Underwood	UW 019	FALSE	UW 019	20-Aug-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34065 - 34064	Underwood	UW 020	FALSE	UW 020	1-Sep-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34123 - 34122	Underwood	UW 021	FALSE	UW 021	13-Sep-10	Baseflow	Baseflow	0	1.55	0	0.61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34073 - 34072	Underwood	UW 022	FALSE	UW 022	13-Oct-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34079 - 34078	Underwood	UW 023	FALSE	UW 023	23-Oct-10	Event	Rainfall 	0	0	0	3.67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34087 - 34086	Underwood	UW 024	FALSE	UW 024	26-Oct-10	Event	Rainfall 	0	0.26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34095 - 34094	Underwood	UW 025	FALSE	UW 025	10-Nov-10	Baseflow	Baseflow	0	7.77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34113 - 34112	Underwood	UW 026	FALSE	UW 026	22-Nov-10	Event	Rainfall 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34129 - 34128	Underwood	UW 027	FALSE	UW 027	29-Nov-10	Event	Rainfall 	0	0	0	0	0	0	0	0	20.55	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34327 - 34326	Underwood	UW 028	FALSE	UW 028	11-Dec-10	Event	Mix	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34329 - 34328	Underwood	UW 029	FALSE	UW 029	19-Dec-10	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34560 - 34559	Underwood	UW 030	FALSE	UW 030	5-Jan-11	Baseflow	Baseflow	0	1.68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34589 - 34588	Underwood	UW 031	FALSE	UW 031	28-Feb-11	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0.44	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34617 - 34616	Underwood	UW 032	FALSE	UW 032	9-Mar-11	Event	Snowmelt	0	0	0	130.72	0	0	0	0	0	12.77	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34629 - 34628	Underwood	UW 033	FALSE	UW 033	14-Mar-11	Event	Snowmelt	0	0	0	0	0	0	0	0	0	0.12	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34641 - 34640	Underwood	UW 034	FALSE	UW 034	17-Mar-11	Event	Snowmelt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34643 - 34642	Underwood	UW 035	FALSE	UW 035	20-Mar-11	Event	Rainfall 	0	0.31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34655 - 34654	Underwood	UW 036	FALSE	UW 036	22-Mar-11	Event	Rainfall 	0	0	0	0	0	0	0	0	4.46	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milw Corridor Study USGS	34669 - 34668	Underwood	UW 037	FALSE	UW 037	29-Mar-11	Baseflow	Baseflow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
