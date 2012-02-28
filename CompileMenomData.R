@@ -19,13 +19,13 @@ source(paste(Rlocal,"/Scripts/fxns_rmNA_rmZeros.R",sep=""))
 source(paste(Rlocal,"/Scripts/fxn_drop.unused.factors.R",sep=""))
 
 #df <- read.delim("D:/srcldata/MMSD/Marshfield results/Jan 2012/menopathTEST.txt")
-df <- read.delim("virus2Prelim4.txt")
+df <- read.delim("virus2Prelim5.txt")
 df.orig <- df # archive original copy
 
-FIB <- read.delim(paste(Rlocal,"/MMSD_virus/Virus2/FIB/FIBJan142012.txt",sep=""),
+FIB <- read.delim(paste(Rlocal,"/MMSD_virus/Virus2/FIB/FIBFeb222012.txt",sep=""),
                   as.is = TRUE)
 FIB.orig <- FIB
-FIB <- FIB[,-which(names(FIB)=="Notes")]
+#FIB <- FIB[,-which(names(FIB)=="Notes")]
 
 #Remove QA/QC samples
 FIB <- FIB[-which(FIB$Event=="QA/QC"|is.na(FIB$FT.)),]
@@ -33,20 +33,20 @@ FIB <- FIB[-which(FIB$Event=="QA/QC"|is.na(FIB$FT.)),]
 FIB$lachno <- ifelse(FIB$RERUN.Lachno.2.CN.100ml=="",  #Combine original and rerun columns
                      FIB$Lachno.2.CN.100ml,
                      FIB$RERUN.Lachno.2.CN.100ml)
-FIB$lachno <- ifelse(substr(FIB$lachno,1,3)=="0.0","BLD",FIB$lachno) #change 0's to BLD
+FIB$lachno <- ifelse(FIB$lachno=="0","BLD",FIB$lachno) #change 0's to BLD
 
 #change all BLDs to detection level
 dl <- 60
-FIB$lachnocen<- ifelse(FIB[,"lachno"]==1,dl,FIB[,"lachno"])
+FIB$lachnocen<- ifelse(FIB[,"lachno"]=="BLD",dl,FIB[,"lachno"])
 
 FIB$BacHuman <- ifelse(FIB$RERUN.Lachno.2.CN.100ml=="",  #Combine original and rerun columns
                      FIB$BacHuman.CN.100ml,
                      FIB$RERUN.BacHuman.CN.100ml)
 
-FIB$BacHuman <- ifelse(substr(FIB$BacHuman,1,3)=="0.0","BLD",FIB$BacHuman) #change 0's to BLD
+FIB$BacHuman <- ifelse(FIB$BacHuman=="0","BLD",FIB$BacHuman) #change 0's to BLD
 
 dl <- 60
-FIB[,i] <- ifelse(FIB[,"BacHuman"]==1,dl,FIB[,"BacHuman"])
+FIB$BacHumancen <- ifelse(FIB[,"BacHuman"]=="BLD",dl,FIB[,"BacHuman"])
 
 min(as.numeric(FIB$lachno),na.rm=T)
 min(as.numeric(FIB$BacHuman),na.rm=T)
@@ -54,8 +54,8 @@ min(as.numeric(FIB$BacHuman),na.rm=T)
 range(as.numeric(FIB$lachno),na.rm=T)
 range(as.numeric(FIB$BacHuman),na.rm=T)
 
-summary(as.numeric(FIB$lachno),na.rm=T)
-summary(as.numeric(FIB$BacHuman),na.rm=T)
+summary(as.numeric(FIB$lachnocen),na.rm=T)
+summary(as.numeric(FIB$BacHumancen),na.rm=T)
 
 df$pdate <- strptime(df$Collection.Start.Date,format="%d-%b-%y")
 df$Ddate <- as.Date(df$pdate)
