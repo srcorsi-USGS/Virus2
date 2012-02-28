@@ -76,5 +76,6 @@ levels(df$Abb2)
 
 test <- merge(df,FIB,by=c("Ddate","Abb2"),all.y=F)
 
-23*.13
+
+
 

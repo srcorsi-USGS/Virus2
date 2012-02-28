@@ -569,6 +569,23 @@ if(j==1) nvals.df <- data.frame(nvals)
 if(j>1) nvals.df <- cbind(nvals.df,nvals)
 }
 
+
+## Plot time series of human viruses by site
+
+xyplot((df$Human_virus+.01)~df$ddate|df$Site.Name,data=df,
+       xlab="date",ylab="Human Viruses (gc/L)",
+       main="Seasonal pathogens by site: Sum of Human viruses",
+       scales = list(y = list(log=10),x=list(rot=90)))
+
+
+
+barchart((df$Human_virus+.01)~df$ddate|df$Site.Name,data=df,
+       xlab="date",ylab="Human Viruses (gc/L)",
+       main="Seasonal pathogens by site: Sum of Human viruses",
+       scales = list(y = list(log=10),x=list(rot=90)))
+
+
+
 ##!!!!!!!!!!!!!!!!!NEED TO WORK ON THIS BAR GRAPH NOW--2/20/2012!!!!!!!!!!!!!!!!!!!!!!!!!!
 names(occur.df) <- Sites
 barplot(t(as.matrix(occur.df)), main="",
