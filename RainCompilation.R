@@ -26,7 +26,6 @@ site <- c("Meno Falls","Donges Bay","Underwood","Honey","70th St.","16th St.")
 dir.prec <- paste(Project,"/MMSD/Viruses/Menomonee Viruses/Data compilation/EnDDat precip/",sep="")
 
 for (i in 1:length(rain.site)){
-  D:\srcldata/MMSD/Viruses/Menomonee Viruses/Data compilation/EnDDat precip
   dir.Q <- paste(Project,"/MMSD/Viruses/Menomonee Viruses/Data compilation/UnitValues/mmsd/",sep="")
   
   Sitefile <- paste(rain.site[i],"_Final.txt",sep="")
@@ -35,7 +34,8 @@ for (i in 1:length(rain.site)){
   dfRain <- read.delim(paste(dir.prec,Sitefile,sep=""))
   
   dfQ <- read.delim(paste(dir.Q,Qfile,sep=""))
-  dfQ <- subset(dfQ,substr(dfQ$NAME,1,1)=="Q")
+  dfQ <- subset(dfQ,substr(dfQ$NAME,1,1)=="Q" & Q != -1.23456e+25)
+
 
   hr <- trunc(dfQ$MINUTE/60)
   min <- dfQ$MINUTE-hr*60
@@ -47,8 +47,29 @@ for (i in 1:length(rain.site)){
   
   dfRain <- dfRain[which(!is.na(dfRain$pdate)),]
 
+  dfsamples.all <- read.delim(paste(Rlocal,"/MMSD_virus/Virus2/virus2Prelim5.txt",sep=""))
+  dfsamples <- subset(dfsamples.all,Site.Name==site[i])
+  dfhydro <- read.delim(paste(dir.Q,rain.site[i],"/",rain.site[i],"-storm-volume-2009-11_FINAL.txt",sep=""))
+  dfsamples2 <- merge(dfsamples,dfhydro,by.x="Study.Sample.ID",by.y="USGS.ID",all=T)
+  
+  dfsamples2$start_date <- as.character(dfsamples2$start_date)
+  dfsamples2$end_date <- as.character(dfsamples2$end_date)
+  
+  for (i in 1:nrow(dfsamples2)){
+    if(dfsamples2$Sample.Type.x[i]=="Baseflow"){
+      dfsamples2$start_date[i] <- as.character(dfsamples2[i,"SSdate"])
+      dfsamples2$end_date[i] <- as.character(dfsamples2[i,"SEdate"])
+    }
+  }
+  
+  dfsamples2$pdate <- strptime(dfsamples2$SSdate, format="%m/%d/%Y %H:%M")
+  dfsamples2$ddate <- as.Date(dfsamples2$pdate)
+  dfsamples2$Hbpdate <- strptime(dfsamples2$start_date, format="%m/%d/%Y %H:%M")
+  dfsamples2$Hepdate <- strptime(dfsamples2$end_date, format="%m/%d/%Y %H:%M")
 
-events <- RMevents(dfRain,ieHr=6,rainthresh=5.1,rain="rain",time="pdate")[1]
+  dfsamples3 <- Hydrovol(dfQ=dfQ,Q="VALUE",time="pdate",df.dates=dfsamples2,bdate="Hbpdate",edate="Hepdate")
+  
+  #events <- RMevents(dfRain,ieHr=6,rainthresh=5.1,rain="rain",time="pdate")[1]
 
 }
 
@@ -91,5 +112,21 @@ for (i in 1:nrow(dfsamples2)){
 #   bdate <- "Ebpdate"
 #   edate <- "Eepdate"
 
+dfQ<-dfQ
+Q<-"VALUE"
+time<-"pdate"
+df.dates<-dfsamples2
+bdate<-"Hbpdate"
+edate<-"Hepdate"
+
 events.MF <- RMeventsSamples(df=dfRain,ieHr=12,rain="rain",time="pdate",dfsamples=dfsamples2,bdate="Ebpdate",edate="Eepdate")
 write.table(events.MF,"D:/srcldata/R/MMSD_virus/Virus2/virus2Prelim7.txt",sep="\t",row.names=F)
+
+
+
+
+
+
+for(i in 1:length(rws))
+  as.character(dfsamples2[rws[i],"Event.Type"])==as.character(dfsamples2[rws[i],"Sample.Type.y"])
+data.frame(x=dfsamples2[,"Event.Type"],y=dfsamples2[,"Sample.Type.y"])
