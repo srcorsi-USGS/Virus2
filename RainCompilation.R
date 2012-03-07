@@ -21,6 +21,8 @@ source(paste(Rlocal,"/Hydrovol/Fxn_WQcompos.R",sep=""))
 setwd(paste(Rlocal,"/MMSD_virus/Virus2/Rain",sep=""))
 #setwd(paste(Project,sep=""))
 
+dfsamples.all <- read.delim(paste(Rlocal,"/MMSD_virus/Virus2/virus2Prelim5.txt",sep=""))
+
 rain.site <- c("MenoFalls","LMDonges","Underwood","Honey","70th","16th")
 site <- c("Meno Falls","Donges Bay","Underwood","Honey","70th St.","16th St.")
 
@@ -48,7 +50,6 @@ for (i in 1:length(rain.site)){
   
   dfRain <- dfRain[which(!is.na(dfRain$pdate)),]
 
-  dfsamples.all <- read.delim(paste(Rlocal,"/MMSD_virus/Virus2/virus2Prelim5.txt",sep=""))
   dfsamples <- subset(dfsamples.all,Site.Name==site[i])
   dfhydro <- read.delim(paste(dir.Q,rain.site[i],"/",rain.site[i],"-storm-volume-2009-11_FINAL.txt",sep=""))
   dfsamples2 <- merge(dfsamples,dfhydro,by.x="Study.Sample.ID",by.y="USGS.ID",all=T)
