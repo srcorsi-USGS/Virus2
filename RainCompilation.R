@@ -1,4 +1,5 @@
 # Menomonee virus Rainfall compilation
+# and preliminary loading computations
 #
 
 
@@ -7,7 +8,6 @@
 SNsys <- system("wmic bios get serialnumber", intern = TRUE, show.output.on.console = FALSE)
 SN <- gsub("\\s","",SNsys)[2]
 if(SN == "R97R0NW") {Wlocal <- "D:/srcldata" #Laptop
-<<<<<<< HEAD
                      Project <- "D://srcldata"
 }else {Wlocal <- "//igsarmewwssrc/SRCdata"
        Project <- "M:/QW Monitoring Team"} #Network
@@ -45,12 +45,10 @@ dir.prec <- paste(Wlocal,"/MMSD/Viruses/Menomonee Viruses/Data compilation/EnDDa
 
 for (i in 1:length(rain.site))[
   dir.Q <- paste(Wlocal,"/MMSD/Viruses/Menomonee Viruses/Data compilation/UnitValues/mmsd/",sep="")
->>>>>>> a11164bd54cf25e5e68a61d5c81bca21d8dea072
   
   Sitefile <- paste(rain.site[i],"_Final.txt",sep="")
   Qfile <- paste(rain.site[i],".rdb",sep="")
 
-<<<<<<< HEAD
   dfRain <- read.delim(paste(dir.prec,Sitefile,sep=""))
   
   dfQ <- read.delim(paste(dir.Q,Qfile,sep=""))
@@ -60,7 +58,6 @@ for (i in 1:length(rain.site))[
 dfRain <- read.delim(paste(dir.prec,Sitefile,sep=""))
 dfQ <- read.delim(paste(dir.Q,Qfile,sep=""))
 dfQ <- subset(dfQ,substr(dfQ$NAME,1,1)=="Q")
->>>>>>> a11164bd54cf25e5e68a61d5c81bca21d8dea072
 
   hr <- trunc(dfQ$MINUTE/60)
   min <- dfQ$MINUTE-hr*60
@@ -68,7 +65,7 @@ dfQ <- subset(dfQ,substr(dfQ$NAME,1,1)=="Q")
   GMToffset <- 5 # hours to central standard time
   dfQ$pdate <- strptime(paste(dfQ$YEAR,"-",dfQ$MONTH,"-",dfQ$DAY," ",hr,":",min,sep=""),format="%Y-%m-%d %H:%M")
   dfRain$pdate <- strptime(dfRain$GMT.Time,format="%m/%d/%Y %H:%M",tz="") - GMToffset*60*60
-<<<<<<< HEAD
+
 #  dfRain$pdate2 <- as.POSIXlt(dfRain$pdate,isdst=1)
   
   dfRain <- dfRain[which(!is.na(dfRain$pdate)),]
@@ -133,6 +130,15 @@ bwplot((df$Daily_Human_virus+0.01)~df$Site.Name|df$Event.Type,data=df,
        main="Event type: Daily mean human virus load",
        scales = list(y = list(log=10)))
 
+bwplot((df$BacHumancen)~df$Site.Name|df$Event,data=df,
+       xlab="",ylab="Pathogen concentrations (gc/L)",
+       main="Event type: Sum of human viruses",
+       scales = list(y = list(log=10)))
+
+bwplot((df$BacHumancen)~df$Event|df$Site.Name,data=df,
+       xlab="",ylab="Pathogen concentrations (gc/L)",
+       main="Event type: Sum of human viruses",
+       scales = list(y = list(log=10)))
 
 ######## Graph loadings for conditional graphs based on sites and event types  #########
 
@@ -254,5 +260,3 @@ events <- RMevents(dfRain,ieHr=6,rainthresh=5.1,rain="rain",time="pdate")[1]
 RMevents.plotQ(df=dfRain,df.events=event.test,sdate="StartDate",edate="EndDate",plot.buffer=6,site.name="MFtest",dfQ=dfQ,)
 
 str(events)
-
->>>>>>> a11164bd54cf25e5e68a61d5c81bca21d8dea072

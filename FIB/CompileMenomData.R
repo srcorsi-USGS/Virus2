@@ -20,6 +20,7 @@ source(paste(Rlocal,"/Scripts/fxn_drop.unused.factors.R",sep=""))
 
 #df <- read.delim("D:/srcldata/MMSD/Marshfield results/Jan 2012/menopathTEST.txt")
 df <- read.delim("virus2Prelim5.txt")
+df <- read.delim(paste(Rlocal,"/MMSD_virus/Virus2/FIB/PathFIBMar122012.txt",sep=""))
 df.orig <- df # archive original copy
 
 FIB <- read.delim(paste(Rlocal,"/MMSD_virus/Virus2/FIB/FIBMar092012.txt",sep=""),
