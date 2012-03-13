@@ -93,6 +93,8 @@ FIB$pdate <- strptime(FIB$Sample.Date,format="%d-%b-%y")
 FIB$Ddate <- as.Date(FIB$pdate)
 
 
+# Determine which sample data from FIB is closest, but the same day or after the
+# ending sample date.
 FIBpdate <- FIB$pdate + 24*3600-1
 for (i in 1:nrow(FIB)) {
   timediff <- difftime(FIBpdate[i],df$SEpdate,units="days") # difference in times from FIB and virus samples
@@ -106,45 +108,106 @@ for (i in 1:nrow(FIB)) {
   }
 }
 
+
 # Mannually check and fill in NAs
 which(is.na(final.sample)) #5  46  81 121 159
 FIB[which(is.na(final.sample)),"pdate"] #"2009-06-15" "2009-06-15" "2009-06-15" "2009-06-15" "2009-06-15"
 
 final.sample[5] <- 5 # HW 006
 final.sample[46] <- 47 # LD 005
-final.sample[81] <- 99 # MC 007
+final.sample[81] <- 88 # MC 007
 final.sample[121] <- 133 # MF 003
 final.sample[159] <- 175 # MW 006
 
 
+
+# Resolve duplicates in final.sample vector
+which(duplicated (final.sample))
+final.sample[16:17] <- c(19,20) # from 20
+final.sample[21:22] <- c(24,25) # from 25
+final.sample[26:28] <- c(29,NA,NA) # NO GOOD MATCH FOR 27 AND 28 AT HONEY, BUT SAMPLES AT OTHERS) # from 29
+final.sample[60:61] <- c(65,66) # from 66
+final.sample[94:95] <- c(105,106) #from 106
+final.sample[98:99] <- c(109,NA) #did not send in 99 MC037 for viruses
+final.sample[106:107] <-c(116,117) # from 116
+final.sample[125:126] <- c(137,138) # MF010 for 138, but it does not match well. end date virus is after received FIB
+final.sample[137:138] <- c(151,152) # from 152
+final.sample[171:172] <- c(190,191) # from 191
+final.sample[176:177] <- c(195,196) # from 196
+final.sample[188:189] <- c(207,208) # from 208
+
+FIB.no.Virus <- c(27,28,99)
+
+
+Vtimes <- df[final.sample,"SEpdate"]
+dftimes <- data.frame(Vtimes,FIBpdate)
+t2 <- round(with(dftimes,(difftime(FIBpdate,Vtimes,units="days"))),1)
+
+
 df2 <- df
-FIBnames <- names(FIB)
-FIBnames.orig <- FIBnames
-for (i in 1:length(FIBnames)) {
-  
-  if(sum(FIBnames[i]==names(df))>0) FIBnames[i] <- paste(FIBnames[i],"FIB",sep="")
+# FIBnames <- names(FIB)
+# FIBnames.orig <- FIBnames
+# for (i in 1:length(FIBnames)) {
+#   
+#   if(sum(FIBnames[i]==names(df))>0) FIBnames[i] <- paste(FIBnames[i],"FIB",sep="")
+# }
+#      
+# for (i in 1:length(FIBnames)) df2[,FIBnames[i]] <- NA
+
+FIBdf1 <- cbind(df[final.sample,],FIB)
+FIBdf1 <- data.frame(FIBdf1)
+tdiff <- difftime(FIBdf1$pdate.1,FIBdf1$SEpdate,units="days")
+
+min(tdiff,na.rm=T)
+max(tdiff,na.rm=T)
+
+
+
+
+FIB.rows <- numeric()
+FIB.NA <- numeric()
+j <- 1
+for (i in 1:nrow(df2)){
+  if(length(which(final.sample==i) > 0) > 0){ # if there is an i that matches something in final.sample
+    FIB.rows[i] <- which(final.sample==i)
+    j <- j + 1
+  } else{
+    FIB.rows[i] <- 1
+    FIB.NA <- c(FIB.NA,i)
+  }
 }
-     
-for (i in 1:length(FIBnames)) df2[,FIBnames[i]] <- NA
-
-#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-#!!!!!!!!   NEED TO FIX THIS -- NEED TO SET NEW VARIABLES IN DF2 TO SAME CLASS AS FIB VARIABLES
-for (i in 1:length(FIBnames)) class(df2[,FIBnames[i]]) <- class(FIB[,FIBnames.orig[i]])
-
-for (i in 1:nrow(FIB)) df2[final.sample[i],FIBnames] <- FIB[i,FIBnames.orig]
-
-i <- 0
-
-i <- i + 1
-df2[final.sample[i],FIBnames] <- FIB[i,FIBnames.orig]
 
 
 
+FIBdf <- FIB[FIB.rows,]
+  
+  
+  
+FIBdf <- FIB[FIB.rows,]
+FIBdf[FIB.NA,] <- NA
 
-value <- numeric(nrow(df))
-value <- NA
-data.frame(value)
+df3 <- cbind(df,FIBdf)
 
-df2 <- cbind(df,data.frame(
-test <- merge(df,FIB,by=c("Ddate","Abb2"),all.y=F)
+NA1 <- (nrow(df3)+1)
+NA2 <- (nrow(df3)+length(FIB.no.Virus))
+df3[NA1:NA2,] <- NA
+### START HERE--NEED TO DEAL WITH NA COLUMNS THAT DO NOT HAVE VIRUSES, BUT DO HAVE FIB
+#ADD IN COLUMNS FROM fib NEED TO DETERMINE WHICH COLUMNS FIRST
+df3[NA1:NA2,COLUNS FROM FIB HERE)
 
+df4 <- cbind(df3,
+
+#resolve duplicate column header names making them unique by adding ".1" on the 
+#end of the second of the duplicates
+df3 <- data.frame(df3) # could also use names(df3) <- make.names(names(df3),unique=TRUE)
+
+tdiff <- difftime(df3$pdate.1,df3$SEpdate,units="days")
+
+max(tdiff,na.rm=T)
+min(tdiff,na.rm=T)
+
+test <- cbind(df[final.sample,],FIB)
+test <- data.frame(test)
+difftime(test$pdate.1,test$SEpdate,units="days")
+
+write.table(df3,paste(Rlocal,"/MMSD_virus/Virus2/FIB/PathFIB.txt",sep=""),sep="\t",row.names=F)
