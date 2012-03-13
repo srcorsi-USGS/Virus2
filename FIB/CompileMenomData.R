@@ -139,6 +139,7 @@ final.sample[188:189] <- c(207,208) # from 208
 FIB.no.Virus <- c(27,28,99)
 
 
+
 Vtimes <- df[final.sample,"SEpdate"]
 dftimes <- data.frame(Vtimes,FIBpdate)
 t2 <- round(with(dftimes,(difftime(FIBpdate,Vtimes,units="days"))),1)
@@ -188,18 +189,19 @@ FIBdf[FIB.NA,] <- NA
 
 df3 <- cbind(df,FIBdf)
 
+#resolve duplicate column header names making them unique by adding ".1" on the 
+#end of the second of the duplicates
+df3 <- data.frame(df3) # could also use names(df3) <- make.names(names(df3),unique=TRUE)
+
 NA1 <- (nrow(df3)+1)
 NA2 <- (nrow(df3)+length(FIB.no.Virus))
 df3[NA1:NA2,] <- NA
 ### START HERE--NEED TO DEAL WITH NA COLUMNS THAT DO NOT HAVE VIRUSES, BUT DO HAVE FIB
 #ADD IN COLUMNS FROM fib NEED TO DETERMINE WHICH COLUMNS FIRST
-df3[NA1:NA2,COLUNS FROM FIB HERE)
+bFIB <- ncol(df2)+1
+eFIB <- ncol(df3)
+df3[NA1:NA2,bFIB:eFIB]  <- FIB[FIB.no.Virus,]
 
-df4 <- cbind(df3,
-
-#resolve duplicate column header names making them unique by adding ".1" on the 
-#end of the second of the duplicates
-df3 <- data.frame(df3) # could also use names(df3) <- make.names(names(df3),unique=TRUE)
 
 tdiff <- difftime(df3$pdate.1,df3$SEpdate,units="days")
 
@@ -211,3 +213,8 @@ test <- data.frame(test)
 difftime(test$pdate.1,test$SEpdate,units="days")
 
 write.table(df3,paste(Rlocal,"/MMSD_virus/Virus2/FIB/PathFIB.txt",sep=""),sep="\t",row.names=F)
+
+# Check on IDs
+IDs <- data.frame(VirusID=df3$Study.Sample.ID,FIBID=df3$Site.Code,FIBID2=df3$Study.Sample.ID.1)
+diffIDs <- IDs[which(as.character(IDs[,1])!=as.character(IDs[,3])),]
+row.names(diffIDs)
