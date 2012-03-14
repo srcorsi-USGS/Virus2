@@ -219,3 +219,18 @@ write.table(df3,paste(Rlocal,"/MMSD_virus/Virus2/FIB/PathFIB.txt",sep=""),sep="\
 IDs <- data.frame(VirusID=df3$Study.Sample.ID,FIBID=df3$Site.Code,FIBID2=df3$Study.Sample.ID.1)
 diffIDs <- IDs[which(as.character(IDs[,1])!=as.character(IDs[,3])),]
 row.names(diffIDs)
+
+
+df.premerge <- read.delim(paste(Rlocal,"/MMSD_virus/Virus2/virus2Prelim5.txt",sep=""))
+IDmergedf <- merge(x=df.premerge,y=FIB,by.x="Study.Sample.ID",by.y="Study.Sample.ID",all=T)
+IDs2 <- data.frame(VirusID=IDmergedf$Study.Sample.ID,FIBID=IDmergedf$Site.Code,FIBID2=IDmergedf$Study.Sample.ID)
+diffIDs2 <- IDs2[which(as.character(IDs2[,1])!=as.character(IDs2[,3])),]
+row.names(diffIDs2)
+
+IDmergedf[which(duplicated(IDmergedf$Study.Sample.ID)),]
+str(IDmergedf)
+IDmergedf$SEpdate <- strptime(IDmergedf$SEdate, format="%m/%d/%Y %H:%M")
+
+tdiff2 <- difftime((IDmergedf$pdate.y+24*60*60),IDmergedf$SEpdate,units="days")
+
+large.tdiff2 <- IDmergedf[which(tdiff2>4),c("Study.Sample.ID","Site.Code")]
