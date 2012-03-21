@@ -23,17 +23,20 @@ site <- c("Meno Falls","Donges Bay","Underwood","Honey","70th St.","16th St.")
 
 dir.Hysep <- paste(Rlocal,"/MMSD_virus/Virus2/Hysep",sep="")
 
-dir.data <- paste(Rlocal,"/MMSD_virus/Virus2/Final compiled data/",sep="")
+dir.data <- paste(Rlocal,"/MMSD_virus/Virus2/Final compiled data/Concentrations/",sep="")
 
 
 for (site.num in 1:length(site)){
   Pathdf <- read.delim(paste(dir.data,"PathFIBWQ_",UV.site[site.num],".txt",sep=""))
-  Pathdf$Ebpdate <- strptime(Pathdf$SSdate,format="%m/%d/%Y %H:%M")
-  Pathdf$Eepdate <- strptime(Pathdf$SEdate,format="%m/%d/%Y %H:%M")
-  Pathdf$Ebddate <- as.Date(Pathdf$Ebpdate)
+  Pathdf$Ebpdate <- strptime(Pathdf$SSdate,format="%m/%d/%Y %H:%M",tz="GMT")-5*60*60
+  Pathdf$Eepdate <- strptime(Pathdf$SEdate,format="%m/%d/%Y %H:%M",tz="GMT")-5*60*60
+  Pathdf$Ebddate <- as.Date(as.POSIXct(format(as.POSIXct(Pathdf$Eepdate),tz="CST6CDT",usetz=TRUE),tz="CST6CDT"))
+
+
+Pathdf$Ebddate <- as.Date(Pathdf$Ebpdate)
   
   Hdf <- read.delim(paste(dir.Hysep,"/",UV.site[site.num],".hysep.txt",sep=""))
-  Hdf$pdate <- strptime(Hdf$Date,format="%m/%d/%Y")
+  Hdf$pdate <- strptime(Hdf$Date,format="%m/%d/%Y",tz="CST6CDT")
   Hdf <- subset(Hdf, pdate > as.POSIXlt("2009-01-01"))
   Hdf$ddate <- as.Date(Hdf$pdate)
   

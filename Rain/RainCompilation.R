@@ -61,9 +61,16 @@ for (i in 1:length(rain.site))[
   dfRain$pdate <- strptime(dfRain$GMT.Time,format="%m/%d/%Y %H:%M",tz="") - GMToffset*60*60
 
   #NEED TO DEAL WITH TIME DIFFERENCES FROM DAYLIGHT TO STANDARD
+  ##!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  ## Use this technique:
+  
+  UVdf <- RMprep(df=UVdf,prep.type=1,date.type=4,tz="CST6CDT")
+  
+  #Specify time zone including daylight savings time and convert to GMT
+  UVdf$pdate <- as.POSIXlt(format(as.POSIXct(UVdf$pdate),tz="GMT",usetz=TRUE),tz="GMT")
   
   
-  
+  #@#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   
 #  dfRain$pdate2 <- as.POSIXlt(dfRain$pdate,isdst=1)
   

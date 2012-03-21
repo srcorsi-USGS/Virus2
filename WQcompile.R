@@ -24,20 +24,19 @@ site <- c("Meno Falls","Donges Bay","Underwood","Honey","70th St.","16th St.")
 
 dir.UV <- "MMSD/Viruses/Menomonee Viruses/Data compilation/UnitValues/mmsd/"
 
-
 for(site.num in 1:length(site)){
 
 UVdf <- read.delim(paste(Project,"/",dir.UV,UV.site[site.num],".RDB",sep=""))
 UVdf <- subset(UVdf,VALUE>-100000)
-UVdf <- RMprep(df=UVdf,prep.type=1,date.type=4)
+UVdf <- RMprep(df=UVdf,prep.type=1,date.type=4,tz="CST6CDT")
 
-Pathdf <- read.delim(paste(Rlocal,"/MMSD_virus/virus2/Final compiled data/PathFIBMar192012reconciled.txt",sep=""))
+#Specify time zone including daylight savings time and convert to GMT
+UVdf$pdate <- as.POSIXlt(format(as.POSIXct(UVdf$pdate),tz="GMT",usetz=TRUE),tz="GMT")
 
-Pathdf$Ebpdate <- strptime(Pathdf$SSdate,format="%m/%d/%Y %H:%M")
-Pathdf$Eepdate <- strptime(Pathdf$SEdate,format="%m/%d/%Y %H:%M")
+Pathdf <- read.delim(paste(Rlocal,"/MMSD_virus/virus2/Final compiled data/Concentrations/PathFIBMar192012reconciled.txt",sep=""))
 
-#subUV <- subset(UVdf,NAME==levels(UVdf$NAME)[2])
-#subdates <- Pathdf[1:3,]
+Pathdf$Ebpdate <- strptime(Pathdf$SSdate,format="%m/%d/%Y %H:%M",tz="GMT")-5*60*60
+Pathdf$Eepdate <- strptime(Pathdf$SEdate,format="%m/%d/%Y %H:%M",tz="GMT")-5*60*60
 
 WQparms <- character()
 for (i in 1:length(levels(UVdf$NAME))){
@@ -56,13 +55,13 @@ Pathdf.stats <- Pathdf
 for (parm.num in 1:length(WQparms)){
 Pathdf.stats <- TSstormstats(df=UVdf,date="pdate",varname="VALUE",
                      dates=Pathdf.stats,starttime="Ebpdate",endtime="Eepdate",
-                     stats.return=c("mean","median","max","min"),
+                     stats.return=c("mean","median","max","min","sd"),
                      subdfvar="NAME", subdfvalue=WQparms[parm.num],
                      out.varname=WQparms[parm.num],
                      subdatesvar="Site.Name", subdatesvalue=site[site.num])
 }
 
-dir.data <- paste(Rlocal,"/MMSD_virus/Virus2/Final compiled data/",sep="")
+dir.data <- paste(Rlocal,"/MMSD_virus/Virus2/Final compiled data/Concentrations/",sep="")
 
 write.table(Pathdf.stats,paste(dir.data,"PathFIBWQ_",UV.site[site.num],".txt",sep=""),sep="\t",row.names=F)
 
