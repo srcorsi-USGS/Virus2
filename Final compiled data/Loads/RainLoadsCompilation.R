@@ -21,7 +21,9 @@ source(paste(Rlocal,"/Hydrovol/fxn_WQcompos.R",sep=""))
 
 setwd(paste(Rlocal,"/MMSD_virus/Virus2/Rain",sep=""))
 
-dfsamples.all <- read.delim(paste(Rlocal,"/MMSD_virus/Virus2/Final compiled data/Concentrations/Path_FIB_WQ_Hy_All.txt",sep=""))
+## Read in file with sample information
+dfsamples.all <- read.delim(paste(Rlocal,"/MMSD_virus/Virus2/Final compiled data/Concentrations/PathFIBMar192012reconciled.txt",sep=""))
+
 
 rain.site <- c("MenoFalls","LMDonges","Underwood","Honey","70th","16th")
 site <- c("Meno Falls","Donges Bay","Underwood","Honey","70th St.","16th St.")
@@ -30,50 +32,44 @@ dir.prec <- paste(Project,"/MMSD/Viruses/Menomonee Viruses/Data compilation/EnDD
 
 ## Read rain and Q files
 for (i in 1:length(rain.site)){
+
+  #Read in rain and Q files
   dir.Q <- paste(Project,"/MMSD/Viruses/Menomonee Viruses/Data compilation/UnitValues/mmsd/",sep="")
   
   Sitefile <- paste(rain.site[i],"_Final.txt",sep="")
   Qfile <- paste(rain.site[i],".rdb",sep="")
 
   dfRain <- read.delim(paste(dir.prec,Sitefile,sep=""))
-  
   dfQ <- read.delim(paste(dir.Q,Qfile,sep=""))
-  
+
+  #Reduce parameter names to remove trailing spaces
   WQparms <- character()
-  for (i in 1:length(levels(dfQ$NAME))){
-    Vname <- levels(dfQ$NAME)[i]
+  for (j in 1:length(levels(dfQ$NAME))){
+    Vname <- levels(dfQ$NAME)[j]
     letter <- ""
     l <- 0
     while(letter !=" "){
       l <- l+1
       letter <- substr(Vname,l,l)
     }
-    WQparms[i] <- substr(Vname,1,l-1)
+    WQparms[j] <- substr(Vname,1,l-1)
   }
   levels(dfQ$NAME) <- WQparms
+  
+  #Remove rows with missing unit values
   dfQ <- subset(dfQ,substr(dfQ$NAME,1,1)=="Q" & VALUE != -1.23456e+25)
 
+  #Construct time variable in unit values file and convert to GMT
   hr <- trunc(dfQ$MINUTE/60)
   min <- dfQ$MINUTE-hr*60
-  
-  GMToffset <- 5 # hours to central standard time
-  dfQ$pdate <- strptime(paste(dfQ$YEAR,"-",dfQ$MONTH,"-",dfQ$DAY," ",hr,":",min,sep=""),format="%Y-%m-%d %H:%M")
-  dfRain$pdate <- strptime(dfRain$GMT.Time,format="%m/%d/%Y %H:%M",tz="") - GMToffset*60*60
+  dfQ$pdate <- strptime(paste(dfQ$YEAR,"-",dfQ$MONTH,"-",dfQ$DAY," ",hr,":",min,sep=""),
+                        format="%Y-%m-%d %H:%M",tz="CST6CDT")
+  dfQ$pdate <- strptime(format(as.POSIXct(dfQ$pdate),tz="GMT",usetz=TRUE),format="%Y-%m-%d %H:%M",tz="GMT")
 
-  #NEED TO DEAL WITH TIME DIFFERENCES FROM DAYLIGHT TO STANDARD
-  ##!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-  ## Use this technique:
-  
-  UVdf <- RMprep(df=UVdf,prep.type=1,date.type=4,tz="CST6CDT")
-  
-  #Specify time zone including daylight savings time and convert to GMT
-  UVdf$pdate <- as.POSIXlt(format(as.POSIXct(UVdf$pdate),tz="GMT",usetz=TRUE),tz="GMT")
-  
-  
-  #@#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-  
-#  dfRain$pdate2 <- as.POSIXlt(dfRain$pdate,isdst=1)
-  
+  #Reformat date to POSIXlt for rain file: this is already in GMT.
+  dfRain$pdate <- strptime(dfRain$GMT.Time,format="%m/%d/%Y %H:%M",tz="GMT")
+
+  #Remove rows in rain file with missing dates
   dfRain <- dfRain[which(!is.na(dfRain$pdate)),]
 
   dfsamples <- subset(dfsamples.all,Site.Name==site[i])
