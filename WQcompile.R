@@ -31,12 +31,12 @@ UVdf <- subset(UVdf,VALUE>-100000)
 UVdf <- RMprep(df=UVdf,prep.type=1,date.type=4,tz="CST6CDT")
 
 #Specify time zone including daylight savings time and convert to GMT
-UVdf$pdate <- as.POSIXlt(format(as.POSIXct(UVdf$pdate),tz="GMT",usetz=TRUE),tz="GMT")
+UVdf$pdate <- as.POSIXct(format(as.POSIXct(UVdf$pdate),tz="GMT",usetz=TRUE),tz="GMT")
 
 Pathdf <- read.delim(paste(Rlocal,"/MMSD_virus/virus2/Final compiled data/Concentrations/PathFIBMar192012reconciled.txt",sep=""))
 
-Pathdf$Ebpdate <- strptime(Pathdf$SSdate,format="%m/%d/%Y %H:%M",tz="GMT")-5*60*60
-Pathdf$Eepdate <- strptime(Pathdf$SEdate,format="%m/%d/%Y %H:%M",tz="GMT")-5*60*60
+Pathdf$Ebpdate <- as.POSIXct(strptime(Pathdf$SSdate,format="%m/%d/%Y %H:%M",tz="GMT")+6*60*60)
+Pathdf$Eepdate <- as.POSIXct(strptime(Pathdf$SEdate,format="%m/%d/%Y %H:%M",tz="GMT")+6*60*60)
 
 WQparms <- character()
 for (i in 1:length(levels(UVdf$NAME))){

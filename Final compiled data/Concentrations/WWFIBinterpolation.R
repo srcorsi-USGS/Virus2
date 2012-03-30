@@ -1,5 +1,5 @@
 ##################################################################
-# Interpolate wastewater pathogen data to match samples
+# Interpolate wastewater FIB data to match samples
 ##################################################################
 
 ###################
@@ -13,26 +13,29 @@ if(SN == "R97R0NW") {Wlocal <- "D:/srcldata" #Laptop
 Rlocal <- paste(Wlocal,"/R",sep="")
 
 #Read in files
-WW.dir <- paste(Project,"/MMSD/Viruses/Marshfield results/Jan 2012",sep="")
+WWFIB.dir <- paste(Rlocal,"/MMSD_virus/Virus2/FIB",sep="")
 conc.dir <- paste(Rlocal,"/MMSD_virus/Virus2/Final compiled data/Concentrations",sep="")
-dfWW <- read.delim(paste(WW.dir,"/DataSummarySewageAdVseparated_SRCdatecorrected.txt",sep=""))
-dfPathFIB <- read.delim(paste(conc.dir,"/Path_FIB_WQ_Hy_All.txt",sep=""))
+dfWWFIB <- read.delim(paste(WWFIB.dir,"/FIBWW.txt",sep=""))
+dfPathFIB <- read.delim(paste(conc.dir,"/PathWWFIB.txt",sep=""))
 
 
 # Take mean of all samples collected on the same date: one from JI and one from SS.
-WWdates <- unique(as.character(dfWW$Collection.Start.Date))
+WWdates <- unique(as.character(dfWWFIB$Sample.Date))
+FIBcols <- names(dfWWFIB)[c(4,5,7,8)]
 for (i in 1:length(WWdates)){
-  subdf <- subset(dfWW,dfWW$Collection.Start.Date==WWdates[i])
-  if(i==1) WWmean <- as.data.frame(t(mean(subdf[,5:26])))
-  else WWmean <- rbind(WWmean,as.data.frame(t(mean(subdf[,5:26]))))
+  subdf <- subset(dfWWFIB,dfWWFIB$Sample.Date==WWdates[i])
+  if(i==1) WWmean <- as.data.frame(t(mean(subdf[,FIBcols])))
+  else WWmean <- rbind(WWmean,as.data.frame(t(mean(subdf[,FIBcols]))))
 }
 WWmean <- cbind(WWdates,WWmean)
 
-#Generate POSIXct dates and add 3.5 days for mean of sample period
-WWmean$pdate <- as.POSIXct(strptime(WWmean$WWdates,format= "%d-%b-%y",tz="CST6CDT")) +3.5*24*3600
+#Generate POSIXct dates and subtract 3.5 days for mean of sample period. PATHOGEN FILE DATES
+#WERE BEGINNING OF SAMPLING AND FIB FILE DATES WERE END. SO SUBTRACT HERE AND ADD FOR PATHOGENS
+WWmean$pdate <- as.POSIXct(strptime(WWmean$WWdates,format= "%d-%b-%y",tz="CST6CDT")) -3.5*24*3600
 dfPathFIB$Ebpdate <- as.POSIXct(strptime(dfPathFIB$Ebpdate,format=  "%Y-%m-%d %H:%M",tz="GMT"))
-WWmean$pdate <- as.POSIXct(strptime(format(as.POSIXct(WWmean$pdate),tz="GMT",usetz=TRUE),format="%Y-%m-%d %H:%M",tz="GMT"))
+WWmean$pdate <- strptime(format(as.POSIXct(WWmean$pdate),tz="GMT",usetz=TRUE),format="%Y-%m-%d %H:%M",tz="GMT")
 nsamples <- length(dfPathFIB$Ebpdate)
+
 for (i in 1:nsamples){
 
   WWcols <- ncol(WWmean)
@@ -60,11 +63,15 @@ for (i in 1:nsamples){
   else WWinterp <- rbind(WWinterp,WWinterp1)
 }
 
-names(WWinterp) <- paste("WW.",names(WWinterp),sep="")
+names(WWinterp) <- paste("WWFIB.",names(WWinterp),sep="")
 dfPathFIBWW <- cbind(dfPathFIB,WWinterp)
 
-write.table(dfPathFIBWW,paste(conc.dir,"/PathWWFIB.txt",sep=""),sep="\t",row.names=F)
+write.table(dfPathFIBWW,paste(conc.dir,"/PathWWFIBWW.txt",sep=""),sep="\t",row.names=F)
 
 df<-dfPathFIBWW
-plot(log10(10+df$WW.Enterovirus),log10(0.01+df$Enterovirus))
+plot(log10(df$BacHumancen),log10(df$WWFIB.BacHuman..CN.100ml.))
+abline(lm(log10(df$WWFIB.BacHuman..CN.100ml.)~log10(df$BacHumancen)))
+
+datlowess <- lowess(log10(df$BacHumancen),log10(df$WWFIB.BacHuman..CN.100ml.),f=0.5)
+lines(datlowess,col=colors()[26], lwd=2) #lowess smooth (red) with 10% window
 

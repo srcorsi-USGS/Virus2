@@ -1,4 +1,4 @@
-## Script to add antecedent baseflow into the virus/FIB files
+## Script to merge the six menomonee files into one combined file
 
 ###################
 #Set R directory
