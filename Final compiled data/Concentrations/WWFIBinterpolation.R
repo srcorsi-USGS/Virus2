@@ -74,4 +74,3 @@ abline(lm(log10(df$WWFIB.BacHuman..CN.100ml.)~log10(df$BacHumancen)))
 
 datlowess <- lowess(log10(df$BacHumancen),log10(df$WWFIB.BacHuman..CN.100ml.),f=0.5)
 lines(datlowess,col=colors()[26], lwd=2) #lowess smooth (red) with 10% window
-
