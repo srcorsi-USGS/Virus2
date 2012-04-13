@@ -28,8 +28,8 @@ dir.data <- paste(Rlocal,"/MMSD_virus/Virus2/Final compiled data/Concentrations/
 
 for (site.num in 1:length(site)){
   Pathdf <- read.delim(paste(dir.data,"PathFIBWQ_",UV.site[site.num],".txt",sep=""))
-  Pathdf$Ebpdate <- strptime(Pathdf$SSdate,format="%m/%d/%Y %H:%M",tz="GMT")-5*60*60
-  Pathdf$Eepdate <- strptime(Pathdf$SEdate,format="%m/%d/%Y %H:%M",tz="GMT")-5*60*60
+  Pathdf$Ebpdate <- strptime(Pathdf$SSdate,format="%m/%d/%Y %H:%M",tz="GMT")-6*60*60 #offset for CST to GMT
+  Pathdf$Eepdate <- strptime(Pathdf$SEdate,format="%m/%d/%Y %H:%M",tz="GMT")-6*60*60 #offset for CST to GMT
   Pathdf$Ebddate <- as.Date(as.POSIXct(format(as.POSIXct(Pathdf$Eepdate),tz="CST6CDT",usetz=TRUE),tz="CST6CDT"))
 
 
